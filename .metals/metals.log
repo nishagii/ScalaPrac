@@ -1075,3 +1075,51 @@ Caused by: java.nio.file.FileSystemNotFoundException: Provider "git" not install
 	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
 	... 16 more
 
+Jun 16, 2024 9:37:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3516
+2024.06.16 09:37:49 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.16 09:37:49 INFO  time: compiled scalaPrac_f4dd477a3a in 0.23s
+2024.06.16 09:39:04 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.16 09:39:04 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 09:39:04 INFO  time: compiled scalaPrac_f4dd477a3a in 0.27s
+2024.06.16 09:39:09 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.16 09:39:09 INFO  time: compiled scalaPrac_f4dd477a3a in 0.2s
+2024.06.16 09:49:42 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 09:49:42 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.16 09:49:42 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.06.16 09:49:42 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 09:49:44 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 09:49:44 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 09:49:46 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.16 09:49:46 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.06.16 09:49:46 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 09:49:47 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 09:49:47 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 09:49:48 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.16 09:49:48 INFO  time: compiled scalaPrac_f4dd477a3a in 94ms
+2024.06.16 09:49:48 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 09:49:49 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 09:49:52 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 09:49:53 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.16 09:49:53 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 09:49:53 INFO  time: compiled scalaPrac_f4dd477a3a in 0.18s
+2024.06.16 09:49:55 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.16 09:49:55 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.06.16 09:49:58 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.16 09:49:58 INFO  time: compiled scalaPrac_f4dd477a3a in 98ms
+2024.06.16 09:49:59 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.16 09:49:59 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.06.16 09:50:18 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.16 09:50:18 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.06.16 09:50:24 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.16 09:50:24 INFO  time: compiled scalaPrac_f4dd477a3a in 0.18s
+2024.06.16 10:59:08 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.16 10:59:08 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 10:59:08 INFO  time: compiled scalaPrac_f4dd477a3a in 68ms
+2024.06.16 10:59:09 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 10:59:10 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 10:59:10 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/code1.scala
+2024.06.16 10:59:11 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.16 10:59:11 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.06.16 10:59:46 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.16 10:59:46 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
