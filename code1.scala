@@ -9,8 +9,8 @@ def disc(i:Double):Double=24.95*0.6*i
 def ship(i:Int):Double= if (i<50) 3 else {(i-50)*0.75+3}
 def tot(i:Int):Double=disc(i)+ship(i)
 //5
-def easy(e:Double):Double=8*e
-def tempo(t:Double):Double=7*t
+def easy(e:Double):Double=e/8.0
+def tempo(t:Double):Double=t/7.0
 def total(e:Double,t:Double)=easy(e)+tempo(t)
 
 
