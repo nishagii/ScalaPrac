@@ -3740,3 +3740,24 @@ WARNING: Unmatched cancel notification for request id 5745
 2024.06.24 14:07:35 WARN  No build server connected
 2024.06.24 14:07:35 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
 2024.06.24 14:07:35 INFO  time: compiled scalaPrac_f4dd477a3a in 0.28s
+2024.06.24 14:13:16 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/salary.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 14:13:16 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/salary/salary.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 14:13:16 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/salary/salary.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 14:13:16 WARN  No build server connected
+2024.06.24 14:13:16 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.24 14:13:16 INFO  time: compiled scalaPrac_f4dd477a3a in 0.18s
+2024.06.24 14:13:36 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/ticket/ticket.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 14:13:36 WARN  No build server connected
+2024.06.24 14:13:36 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.24 14:13:36 INFO  time: compiled scalaPrac_f4dd477a3a in 0.22s
+2024.06.24 14:14:50 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/code2/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 14:14:50 WARN  No build server connected
+2024.06.24 14:14:50 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.24 14:14:50 INFO  time: compiled scalaPrac_f4dd477a3a in 0.2s
+2024.06.24 14:15:03 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/code1/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 14:15:03 WARN  No build server connected
+2024.06.24 14:15:03 WARN  No build server connected
+2024.06.24 14:15:03 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/salary/salary.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 14:15:03 INFO  Cancelling compilation on scala-cli server
+2024.06.24 14:15:03 INFO  compiling scalaprac_f4dd477a3a (1 scala source)
+2024.06.24 14:15:03 INFO  time: compiled scalaPrac_f4dd477a3a in 0.33s
