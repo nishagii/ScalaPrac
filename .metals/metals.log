@@ -8672,3 +8672,13 @@ WARNING: Unmatched cancel notification for request id 651
 2024.06.30 19:18:13 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle3/code4.scala
 ජූනි 30, 2024 7:18:25 ප.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.06.30 19:18:45 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 19:18:45 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle3/code4.scala
+2024.06.30 19:18:52 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 19:18:52 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 19:18:52 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 19:18:52 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle3/code4.scala
+2024.06.30 19:18:53 WARN  no build target for: /Users/nishagi/myStuff/scalaPrac/practicle3/code4.scala
+2024.06.30 19:18:53 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle3/code4.scala
+2024.06.30 19:18:55 INFO  compiling scalaprac_f4dd477a3a (11 scala sources)
+2024.06.30 19:18:55 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
