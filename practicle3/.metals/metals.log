@@ -568,3 +568,322 @@ scala.meta.tokenizers.TokenizeException: <input>:12: error: unclosed string lite
 2024.06.30 17:48:59 INFO  time: compiled practicle3_f4dd477a3a in 0.13s
 2024.06.30 17:56:38 INFO  compiling practicle3_f4dd477a3a (1 scala source)
 2024.06.30 17:56:38 INFO  time: compiled practicle3_f4dd477a3a in 0.17s
+2024.06.30 18:09:31 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.06.30 18:09:32 INFO  compiling practicle3_f4dd477a3a (3 scala sources)
+2024.06.30 18:09:32 INFO  time: compiled practicle3_f4dd477a3a in 0.22s
+2024.06.30 18:09:33 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle3/code2.scala
+2024.06.30 18:09:52 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:09:52 INFO  time: compiled practicle3_f4dd477a3a in 29ms
+2024.06.30 18:09:53 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle3/code2.scala
+2024.06.30 18:09:55 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle3/code2.scala
+2024.06.30 18:09:55 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:09:55 INFO  time: compiled practicle3_f4dd477a3a in 30ms
+2024.06.30 18:09:55 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle3/code2.scala
+2024.06.30 18:09:57 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:09:57 INFO  time: compiled practicle3_f4dd477a3a in 85ms
+2024.06.30 18:10:00 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:00 INFO  time: compiled practicle3_f4dd477a3a in 86ms
+2024.06.30 18:10:02 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:02 INFO  time: compiled practicle3_f4dd477a3a in 77ms
+2024.06.30 18:10:04 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:04 INFO  time: compiled practicle3_f4dd477a3a in 35ms
+2024.06.30 18:10:06 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:06 INFO  time: compiled practicle3_f4dd477a3a in 45ms
+2024.06.30 18:10:10 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:10 INFO  time: compiled practicle3_f4dd477a3a in 36ms
+2024.06.30 18:10:12 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:12 INFO  time: compiled practicle3_f4dd477a3a in 49ms
+2024.06.30 18:10:13 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:13 INFO  time: compiled practicle3_f4dd477a3a in 32ms
+2024.06.30 18:10:18 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:18 INFO  time: compiled practicle3_f4dd477a3a in 42ms
+2024.06.30 18:10:21 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:21 INFO  time: compiled practicle3_f4dd477a3a in 44ms
+2024.06.30 18:10:23 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:23 INFO  time: compiled practicle3_f4dd477a3a in 70ms
+2024.06.30 18:10:26 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:26 INFO  time: compiled practicle3_f4dd477a3a in 37ms
+2024.06.30 18:10:28 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:28 INFO  time: compiled practicle3_f4dd477a3a in 50ms
+2024.06.30 18:10:30 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:30 INFO  time: compiled practicle3_f4dd477a3a in 46ms
+2024.06.30 18:10:32 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:32 INFO  time: compiled practicle3_f4dd477a3a in 44ms
+2024.06.30 18:10:40 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:40 INFO  time: compiled practicle3_f4dd477a3a in 59ms
+2024.06.30 18:10:42 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:42 INFO  time: compiled practicle3_f4dd477a3a in 46ms
+2024.06.30 18:10:44 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:44 INFO  time: compiled practicle3_f4dd477a3a in 38ms
+2024.06.30 18:10:48 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:48 INFO  time: compiled practicle3_f4dd477a3a in 48ms
+2024.06.30 18:10:53 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:53 INFO  time: compiled practicle3_f4dd477a3a in 0.23s
+2024.06.30 18:10:56 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:10:56 INFO  time: compiled practicle3_f4dd477a3a in 0.18s
+2024.06.30 18:11:02 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:02 INFO  time: compiled practicle3_f4dd477a3a in 71ms
+2024.06.30 18:11:10 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:10 INFO  time: compiled practicle3_f4dd477a3a in 0.16s
+2024.06.30 18:11:12 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:12 INFO  time: compiled practicle3_f4dd477a3a in 57ms
+2024.06.30 18:11:13 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:13 INFO  time: compiled practicle3_f4dd477a3a in 0.18s
+2024.06.30 18:11:17 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:17 INFO  time: compiled practicle3_f4dd477a3a in 0.2s
+2024.06.30 18:11:19 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:19 INFO  time: compiled practicle3_f4dd477a3a in 0.2s
+2024.06.30 18:11:23 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:23 INFO  time: compiled practicle3_f4dd477a3a in 81ms
+2024.06.30 18:11:25 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:25 INFO  time: compiled practicle3_f4dd477a3a in 0.2s
+2024.06.30 18:11:28 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:28 INFO  time: compiled practicle3_f4dd477a3a in 64ms
+2024.06.30 18:11:31 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:31 INFO  time: compiled practicle3_f4dd477a3a in 0.23s
+2024.06.30 18:11:32 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:32 INFO  time: compiled practicle3_f4dd477a3a in 0.18s
+2024.06.30 18:11:35 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:35 INFO  time: compiled practicle3_f4dd477a3a in 0.17s
+2024.06.30 18:11:37 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:37 INFO  time: compiled practicle3_f4dd477a3a in 77ms
+2024.06.30 18:11:38 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:38 INFO  time: compiled practicle3_f4dd477a3a in 52ms
+2024.06.30 18:11:40 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:40 INFO  time: compiled practicle3_f4dd477a3a in 0.14s
+2024.06.30 18:11:44 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:44 INFO  time: compiled practicle3_f4dd477a3a in 0.11s
+2024.06.30 18:11:46 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:46 INFO  time: compiled practicle3_f4dd477a3a in 71ms
+2024.06.30 18:11:50 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:50 INFO  time: compiled practicle3_f4dd477a3a in 59ms
+2024.06.30 18:11:51 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:51 INFO  time: compiled practicle3_f4dd477a3a in 46ms
+2024.06.30 18:11:54 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:54 INFO  time: compiled practicle3_f4dd477a3a in 59ms
+2024.06.30 18:11:57 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:11:57 INFO  time: compiled practicle3_f4dd477a3a in 76ms
+2024.06.30 18:12:03 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:03 INFO  time: compiled practicle3_f4dd477a3a in 83ms
+2024.06.30 18:12:05 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:05 INFO  time: compiled practicle3_f4dd477a3a in 52ms
+2024.06.30 18:12:06 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:06 INFO  time: compiled practicle3_f4dd477a3a in 45ms
+2024.06.30 18:12:07 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:07 INFO  time: compiled practicle3_f4dd477a3a in 51ms
+2024.06.30 18:12:09 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:09 INFO  time: compiled practicle3_f4dd477a3a in 0.14s
+2024.06.30 18:12:14 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:14 INFO  time: compiled practicle3_f4dd477a3a in 85ms
+2024.06.30 18:12:16 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:16 INFO  time: compiled practicle3_f4dd477a3a in 52ms
+2024.06.30 18:12:17 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:17 INFO  time: compiled practicle3_f4dd477a3a in 40ms
+2024.06.30 18:12:19 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:19 INFO  time: compiled practicle3_f4dd477a3a in 41ms
+2024.06.30 18:12:21 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:21 INFO  time: compiled practicle3_f4dd477a3a in 0.1s
+2024.06.30 18:12:26 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:26 INFO  time: compiled practicle3_f4dd477a3a in 58ms
+2024.06.30 18:12:28 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:28 INFO  time: compiled practicle3_f4dd477a3a in 47ms
+2024.06.30 18:12:30 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:30 INFO  time: compiled practicle3_f4dd477a3a in 0.17s
+2024.06.30 18:12:33 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:33 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code2.scala
+2024.06.30 18:12:33 INFO  time: compiled practicle3_f4dd477a3a in 0.17s
+2024.06.30 18:12:37 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:37 INFO  time: compiled practicle3_f4dd477a3a in 0.2s
+2024.06.30 18:12:56 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:12:56 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code2.scala
+2024.06.30 18:12:56 INFO  time: compiled practicle3_f4dd477a3a in 0.17s
+2024.06.30 18:13:00 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:00 INFO  time: compiled practicle3_f4dd477a3a in 0.18s
+2024.06.30 18:13:04 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:04 INFO  time: compiled practicle3_f4dd477a3a in 67ms
+2024.06.30 18:13:09 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:09 INFO  time: compiled practicle3_f4dd477a3a in 62ms
+2024.06.30 18:13:13 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:13 INFO  time: compiled practicle3_f4dd477a3a in 67ms
+2024.06.30 18:13:14 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:14 INFO  time: compiled practicle3_f4dd477a3a in 45ms
+2024.06.30 18:13:16 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:16 INFO  time: compiled practicle3_f4dd477a3a in 55ms
+2024.06.30 18:13:21 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:21 INFO  time: compiled practicle3_f4dd477a3a in 57ms
+2024.06.30 18:13:23 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:23 INFO  time: compiled practicle3_f4dd477a3a in 51ms
+2024.06.30 18:13:30 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:30 INFO  time: compiled practicle3_f4dd477a3a in 76ms
+2024.06.30 18:13:36 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:36 INFO  time: compiled practicle3_f4dd477a3a in 58ms
+2024.06.30 18:13:37 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:37 INFO  time: compiled practicle3_f4dd477a3a in 0.15s
+2024.06.30 18:13:38 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:38 INFO  time: compiled practicle3_f4dd477a3a in 0.11s
+2024.06.30 18:13:41 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:41 INFO  time: compiled practicle3_f4dd477a3a in 0.13s
+2024.06.30 18:13:43 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:43 INFO  time: compiled practicle3_f4dd477a3a in 0.12s
+2024.06.30 18:13:45 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:45 INFO  time: compiled practicle3_f4dd477a3a in 0.12s
+2024.06.30 18:13:48 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:48 INFO  time: compiled practicle3_f4dd477a3a in 0.15s
+2024.06.30 18:13:51 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:51 INFO  time: compiled practicle3_f4dd477a3a in 0.13s
+ජූනි 30, 2024 6:13:54 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3027
+2024.06.30 18:13:55 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:55 INFO  time: compiled practicle3_f4dd477a3a in 0.12s
+2024.06.30 18:13:59 ERROR Failed to tokenize input for semantic tokens for /Users/nishagi/myStuff/scalaPrac/practicle3/code2.scala
+scala.meta.tokenizers.TokenizeException: <input>:9: error: unclosed string interpolation
+        println(s"Original list: $")
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.06.30 18:13:59 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:13:59 INFO  time: compiled practicle3_f4dd477a3a in 64ms
+2024.06.30 18:13:59 ERROR Failed to tokenize input for semantic tokens for /Users/nishagi/myStuff/scalaPrac/practicle3/code2.scala
+scala.meta.tokenizers.TokenizeException: <input>:9: error: unclosed string interpolation
+        println(s"Original list: $")
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.06.30 18:14:02 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:14:02 INFO  time: compiled practicle3_f4dd477a3a in 62ms
+2024.06.30 18:14:04 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:14:04 INFO  time: compiled practicle3_f4dd477a3a in 0.16s
+2024.06.30 18:14:14 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:14:14 INFO  time: compiled practicle3_f4dd477a3a in 0.15s
+2024.06.30 18:14:16 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:14:16 INFO  time: compiled practicle3_f4dd477a3a in 61ms
+2024.06.30 18:14:17 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:14:17 INFO  time: compiled practicle3_f4dd477a3a in 0.17s
+2024.06.30 18:14:19 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:14:19 INFO  time: compiled practicle3_f4dd477a3a in 46ms
+2024.06.30 18:14:20 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:14:20 INFO  time: compiled practicle3_f4dd477a3a in 0.14s
+2024.06.30 18:14:28 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:14:28 INFO  time: compiled practicle3_f4dd477a3a in 0.16s
+2024.06.30 18:14:30 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:14:30 INFO  time: compiled practicle3_f4dd477a3a in 0.13s
+2024.06.30 18:14:32 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:14:32 INFO  time: compiled practicle3_f4dd477a3a in 0.13s
+2024.06.30 18:14:34 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:14:34 INFO  time: compiled practicle3_f4dd477a3a in 0.12s
+2024.06.30 18:14:34 ERROR Failed to tokenize input for semantic tokens for /Users/nishagi/myStuff/scalaPrac/practicle3/code2.scala
+scala.meta.tokenizers.TokenizeException: <input>:10: error: unclosed string interpolation
+        println(s"Filtered List: $")
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.06.30 18:14:35 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:14:35 INFO  time: compiled practicle3_f4dd477a3a in 50ms
+2024.06.30 18:14:35 ERROR Failed to tokenize input for semantic tokens for /Users/nishagi/myStuff/scalaPrac/practicle3/code2.scala
+scala.meta.tokenizers.TokenizeException: <input>:10: error: unclosed string interpolation
+        println(s"Filtered List: $")
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.06.30 18:14:39 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:14:39 INFO  time: compiled practicle3_f4dd477a3a in 66ms
+2024.06.30 18:14:42 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.06.30 18:14:42 INFO  time: compiled practicle3_f4dd477a3a in 0.14s
+ජූනි 30, 2024 6:59:34 ප.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
