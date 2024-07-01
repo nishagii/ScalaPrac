@@ -8773,3 +8773,16 @@ INFO: Unsupported notification method: $/setTrace
 2024.07.01 18:50:09 WARN  Build server is not auto-connectable.
 2024.07.01 18:50:09 INFO  compiling scalaprac_f4dd477a3a (11 scala sources)
 2024.07.01 18:50:09 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.07.01 18:51:44 INFO  file:///Users/nishagi/myStuff/scalaPrac/lecturesCode/tempCodeRunnerFile.scala:8:5: stale bloop error: '}' expected, but eof found
+// }
+    ^
+2024.07.01 18:51:44 INFO  file:///Users/nishagi/myStuff/scalaPrac/lecturesCode/tempCodeRunnerFile.scala:8:5: stale bloop error: '}' expected, but eof found
+// }
+    ^
+2024.07.01 18:51:44 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/lecturesCode/tempCodeRunnerFile.scala
+2024.07.01 18:51:45 INFO  compiling scalaprac_f4dd477a3a (11 scala sources)
+2024.07.01 18:51:45 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.01 18:51:45 INFO  time: compiled scalaPrac_f4dd477a3a in 0.54s
+2024.07.01 18:51:46 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/lecturesCode/tempCodeRunnerFile.scala
+2024.07.01 18:51:57 WARN  No build server connected
+2024.07.01 18:51:57 INFO  Cancelling compilation on scala-cli server
