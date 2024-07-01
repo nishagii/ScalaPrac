@@ -1,12 +1,22 @@
-object StringFilter{
-    def filter(inputList: List[String]):List[String]={
-        inputList.filter(_.length>5)
+object StringFilterApp {
+  def filterStringsGreaterThan5(strings: List[String]): List[String] = {
+    def filterHelper(lst: List[String], acc: List[String]): List[String] = {
+      lst match {
+        case Nil => acc
+        case head :: tail =>
+          if (head.length > 5)
+            filterHelper(tail, acc :+ head)
+          else
+            filterHelper(tail, acc)
+      }
     }
 
-    def main(args:Array[String]): Unit={
-        val stringList=List("hello", "world", "Scala", "programming", "is", "awesome")
-        val filteredList=filter(stringList)
-        println(s"Original list: $stringList")
-        println(s"Filtered List: $filteredList")
-    }
+    filterHelper(strings, List())
+  }
+
+  def main(args: Array[String]): Unit = {
+    val inputStrings = List("hello", "world", "Scala", "programming", "fun", "amazing")
+    val filteredStrings = filterStringsGreaterThan5(inputStrings)
+    println("Filtered strings with length greater than 5: " + filteredStrings)
+  }
 }

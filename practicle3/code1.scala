@@ -1,4 +1,3 @@
-import scala.compiletime.ops.string
 object StringReversal{
     def reverse(input:String): String={
         if (input.isEmpty()){

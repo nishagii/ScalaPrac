@@ -1,4 +1,3 @@
-
 object SumOfEvens {
   def sumOfEvenNumbers(inputList: List[Int]): Int = {
     def sumEvens(list: List[Int], acc: Int): Int = {

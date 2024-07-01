@@ -892,3 +892,231 @@ INFO: Unsupported notification method: $/setTrace
 2024.06.30 19:00:18 INFO  Shut down connection with build server.
 2024.06.30 19:00:18 INFO  Exiting server
 2024.06.30 19:00:28 INFO  Started: Metals version 1.3.2 in folders '/Users/nishagi/myStuff/scalaPrac/practicle3' for client Visual Studio Code 1.90.2.
+2024.07.01 18:23:38 INFO  Started: Metals version 1.3.2 in folders '/Users/nishagi/myStuff/scalaPrac/practicle3' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@3465c3ab]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@27d11f42]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@3465c3ab]
+2024.07.01 18:23:38 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.01 18:23:40 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:23:41 WARN  scala-cli >= 0.1.3 not found in PATH, fetching and starting a JVM-based Scala CLI
+2024.07.01 18:23:45 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:23:45 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:24:11 INFO  Running List(/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/bin/java, -cp, /Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/cli_3/1.3.2/cli_3-1.3.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app_3/2.1.0-M26/case-app_3-2.1.0-M26.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-launcher_2.13/2.1.10/coursier-launcher_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-proxy-setup/2.1.10/coursier-proxy-setup-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/publish/publish_2.13/0.1.6/publish_2.13-0.1.6.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/jimfs/jimfs/1.3.0/jimfs-1.3.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/jniutils/windows-jni-utils/0.3.3/windows-jni-utils-0.3.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_3/2.13.5.2/jsoniter-scala-core_3-2.13.5.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/libsodiumjni/0.0.4/libsodiumjni-0.0.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_3/0.12.0/metaconfig-typesafe-config_3-0.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ai/kien/python-native-libs_3/0.2.4/python-native-libs_3-0.2.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-packager_2.13/0.1.29/scala-packager_2.13-0.1.29.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/cli_3/0.2.3/cli_3-0.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-nop/2.0.13/slf4j-nop-2.0.13.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/client3/core_2.13/3.9.7/core_2.13-3.9.7.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.3/scala3-library_3-3.3.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-module_3/1.3.2/build-module_3-1.3.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/config_3/1.3.2/config_3-1.3.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala3-graal_3/1.3.2/scala3-graal_3-1.3.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/specification-level_3/1.3.2/specification-level_3-1.3.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-annotations_3/2.1.0-M26/case-app-annotations_3-2.1.0-M26.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-util_3/2.1.0-M26/case-app-util_3-2.1.0-M26.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_3/0.4.0/sourcecode_3-0.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/tmp/zip-input-stream/0.1.1/zip-input-stream-0.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.13/2.1.10/coursier-cache_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-core_2.13/2.1.10/coursier-core_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/guava/33.2.0-jre/guava-33.2.0-jre.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-core_3/0.12.0/metaconfig-core_3-0.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_3/2.12.0/scala-collection-compat_3-2.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-io/commons-io/2.15.0/commons-io-2.15.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-core/0.22.0/jib-core-0.22.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcpg-jdk18on/1.76/bcpg-jdk18on-1.76.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/shared_3/0.2.3/shared_3-0.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/model/core_2.13/1.7.9/core_2.13-1.7.9.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/core_2.13/1.3.16/core_2.13-1.3.16.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/ws_2.13/1.3.16/ws_2.13-1.3.16.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm/9.7/asm-9.7.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/java-class-name/java-class-name_3/0.1.3/java-class-name_3-0.1.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/trees_2.13/4.9.5/trees_2.13-4.9.5.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/test-runner_3/0.5.1/test-runner_3-0.5.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_3/0.10.1/os-lib_3-0.10.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/pprint_3/0.9.0/pprint_3-0.9.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-nodejs_2.13/1.4.0/scalajs-env-nodejs_2.13-1.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-sbt-test-adapter_2.13/1.16.0/scalajs-sbt-test-adapter_2.13-1.16.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.12/file-tree-views-2.1.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/zip-input-stream/zip-input-stream/0.1.2/zip-input-stream-0.1.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/options_3/1.3.2/options_3-1.3.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/directives_3/1.3.2/directives_3-1.3.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala-cli-bsp/1.3.2/scala-cli-bsp-1.3.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/test-runner_3/1.3.2/test-runner_3-1.3.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/tasty-lib_3/1.3.2/tasty-lib_3-1.3.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-archiver/4.9.0/plexus-archiver-4.9.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/2.1.1/plexus-container-default-2.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/windows-ansi/windows-ansi/0.0.5/windows-ansi-0.0.5.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-util_2.13/2.1.10/coursier-util_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/concurrent-reference-hash-map/1.1.0/concurrent-reference-hash-map-1.1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/2.3.0/scala-xml_2.13-2.3.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.26.1/error_prone_annotations-2.26.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_3/0.12.0/metaconfig-pprint_3-0.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/paiges-core_3/0.4.3/paiges-core_3-0.4.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-build-plan/0.4.0/jib-build-plan-0.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client/1.34.0/google-http-client-1.34.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-apache-v2/1.34.0/google-http-client-apache-v2-1.34.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-oauth2-http/0.18.0/google-auth-library-oauth2-http-0.18.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-compress/1.24.0/commons-compress-1.24.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.13.3/jackson-datatype-jsr310-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk18on/1.76/bcprov-jdk18on-1.76.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.3.1/scala3-compiler_3-3.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/common_2.13/4.9.5/common_2.13-4.9.5.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/tools_3/0.5.1/tools_3-0.5.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/sbt/junit-interface/0.13.3/junit-interface-0.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_3/1.1.0/geny_3-1.1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fansi_3/0.5.0/fansi_3-0.5.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_2.13/1.4.0/scalajs-js-envs_2.13-1.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.13/2.0.0/bloop-config_2.13-2.0.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/core_3/1.3.2/core_3-1.3.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/using_directives/1.1.1/using_directives-1.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-macros_3/1.3.2/build-macros_3-1.3.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bsp4j/2.1.1/bsp4j-2.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-io/3.4.1/plexus-io-3.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/tukaani/xz/1.9/xz-1.9.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.5-10/zstd-jni-1.5.5-10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.6.0/plexus-classworlds-2.6.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.18/jansi-1.18.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-api/0.24.0/opencensus-api-0.24.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-contrib-http-util/0.24.0/opencensus-contrib-http-util-0.24.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auto/value/auto-value-annotations/1.6.6/auto-value-annotations-1.6.6.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-credentials/0.18.0/google-auth-library-credentials-0.18.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-jackson2/1.32.1/google-http-client-jackson2-1.32.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.3.1/scala3-interfaces-3.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.3.1/tasty-core_3-3.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.5.0-scala-1/scala-asm-9.5.0-scala-1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.3.5/compiler-interface-1.3.5.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.13/0.11.15/scalapb-runtime_2.13-0.11.15.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/nir_3/0.5.1/nir_3-0.5.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/util_3/0.5.1/util_3-0.5.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-logging_2.13/1.1.1/scalajs-logging_2.13-1.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-rifle_2.13/1.5.17-sc-2/bloop-rifle_2.13-1.5.17-sc-2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-jvm_2.13/2.1.10/coursier-jvm_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/dependency_3/0.2.3/dependency_3-0.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/6.8.0.202311291450-r/org.eclipse.jgit-6.8.0.202311291450-r.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-jsdom-nodejs_2.13/1.1.0/scalajs-env-jsdom-nodejs_2.13-1.1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.generator/0.20.1/org.eclipse.lsp4j.generator-0.20.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.jsonrpc/0.20.1/org.eclipse.lsp4j.jsonrpc-0.20.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/grpc/grpc-context/1.22.1/grpc-context-1.22.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.19.6/protobuf-java-3.19.6.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.3.0/util-interface-1.3.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.13/0.11.15/lenses_2.13-0.11.15.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.13/0.0.11/libdaemon_2.13-0.0.11.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/snailgun/snailgun-core_2.13/0.4.1-sc2/snailgun-core_2.13-0.4.1-sc2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.3_2.13/1.3.1/argonaut-shapeless_6.3_2.13-1.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier_2.13/2.1.10/coursier_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-env_2.13/2.1.10/coursier-env_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.2.3/JavaEWAH-1.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.28.0/org.eclipse.xtend.lib-2.28.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/argonaut/argonaut_2.13/6.3.8/argonaut_2.13-6.3.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.9/shapeless_2.13-2.3.9.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/2.28.0/org.eclipse.xtext.xbase.lib-2.28.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib.macro/2.28.0/org.eclipse.xtend.lib.macro-2.28.0.jar, scala.cli.ScalaCli, bsp, /Users/nishagi/myStuff/scalaPrac/practicle3)
+2024.07.01 18:24:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nishagi/myStuff/scalaPrac/practicle3/.metals/bsp.trace.json or /Users/nishagi/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.07.01 18:24:11 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:24:11 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:24:11 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+ජූලි 01, 2024 6:24:11 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2024.07.01 18:24:11 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:24:11 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:24:11 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:24:11 WARN  no build target for: /Users/nishagi/myStuff/scalaPrac/practicle3/code1.scala
+2024.07.01 18:24:11 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:24:11 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+ජූලි 01, 2024 6:24:11 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+ජූලි 01, 2024 6:24:11 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+ජූලි 01, 2024 6:24:11 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+2024.07.01 18:24:11 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:24:11 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:24:11 WARN  no build target for: /Users/nishagi/myStuff/scalaPrac/practicle3/code1.scala
+2024.07.01 18:24:15 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle3/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:24:17 INFO  Connected to Scala CLI server v1.3.2
+2024.07.01 18:24:18 INFO  compiling practicle3_f4dd477a3a (4 scala sources)
+2024.07.01 18:24:19 INFO  time: indexed workspace in 1.41s
+2024.07.01 18:24:19 INFO  time: compiled practicle3_f4dd477a3a in 1.28s
+ජූලි 01, 2024 6:24:49 ප.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+ජූලි 01, 2024 6:24:49 ප.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+ජූලි 01, 2024 6:25:33 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+ජූලි 01, 2024 6:25:33 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+ජූලි 01, 2024 6:25:33 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
+ජූලි 01, 2024 6:25:33 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+ජූලි 01, 2024 6:25:33 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 52
+ජූලි 01, 2024 6:25:33 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 54
+ජූලි 01, 2024 6:25:33 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 51
+ජූලි 01, 2024 6:25:33 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+2024.07.01 18:25:33 INFO  Scala CLI started for /Users/nishagi/myStuff/scalaPrac/practicle3
+2024.07.01 18:25:33 WARN  no build tool detected in workspace '/Users/nishagi/myStuff/scalaPrac/practicle3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.07.01 18:25:33 WARN  Build server is not auto-connectable.
+ජූලි 01, 2024 6:28:47 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 106
+2024.07.01 18:34:10 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:34:10 INFO  time: compiled practicle3_f4dd477a3a in 0.12s
+2024.07.01 18:34:11 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle3/code2.scala
+2024.07.01 18:34:24 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:34:24 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code2.scala
+2024.07.01 18:34:24 INFO  time: compiled practicle3_f4dd477a3a in 0.4s
+2024.07.01 18:37:27 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:37:27 INFO  time: compiled practicle3_f4dd477a3a in 0.25s
+2024.07.01 18:37:40 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:37:41 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:37:40 INFO  time: compiled practicle3_f4dd477a3a in 0.25s
+2024.07.01 18:37:52 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:37:52 INFO  time: compiled practicle3_f4dd477a3a in 0.23s
+2024.07.01 18:37:57 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:37:57 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:37:57 INFO  time: compiled practicle3_f4dd477a3a in 0.4s
+2024.07.01 18:37:57 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:01 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:01 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:38:01 INFO  time: compiled practicle3_f4dd477a3a in 0.1s
+2024.07.01 18:38:02 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:03 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:38:03 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:03 INFO  time: compiled practicle3_f4dd477a3a in 0.29s
+2024.07.01 18:38:03 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:04 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:04 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:05 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:06 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:07 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:38:07 INFO  time: compiled practicle3_f4dd477a3a in 0.26s
+2024.07.01 18:38:07 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:07 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:08 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:38:08 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:08 INFO  time: compiled practicle3_f4dd477a3a in 0.24s
+2024.07.01 18:38:09 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:12 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:13 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:38:13 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:13 INFO  time: compiled practicle3_f4dd477a3a in 0.25s
+2024.07.01 18:38:13 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:14 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:15 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:38:15 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:15 INFO  time: compiled practicle3_f4dd477a3a in 0.23s
+2024.07.01 18:38:16 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:21 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:22 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:38:22 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:22 INFO  time: compiled practicle3_f4dd477a3a in 0.33s
+2024.07.01 18:38:23 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:26 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:27 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:38:27 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:27 INFO  time: compiled practicle3_f4dd477a3a in 0.24s
+2024.07.01 18:38:27 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:31 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:32 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:32 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:34 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:34 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:38:35 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:34 INFO  time: compiled practicle3_f4dd477a3a in 0.28s
+2024.07.01 18:38:35 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:35 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:36 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:38:36 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:36 INFO  time: compiled practicle3_f4dd477a3a in 0.23s
+2024.07.01 18:38:37 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:38 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:39 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:38:40 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:39 INFO  time: compiled practicle3_f4dd477a3a in 0.24s
+2024.07.01 18:38:40 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:41 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:42 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:38:42 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:42 INFO  time: compiled practicle3_f4dd477a3a in 0.25s
+2024.07.01 18:38:43 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+ජූලි 01, 2024 6:38:47 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 492
+2024.07.01 18:38:47 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:49 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:50 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:50 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:51 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:38:51 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:51 INFO  time: compiled practicle3_f4dd477a3a in 0.24s
+2024.07.01 18:38:51 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:56 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:56 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:57 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:38:57 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:57 INFO  time: compiled practicle3_f4dd477a3a in 0.24s
+2024.07.01 18:38:57 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:58 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:59 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:38:59 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:38:59 INFO  time: compiled practicle3_f4dd477a3a in 0.18s
+2024.07.01 18:39:00 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:39:20 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:39:20 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:39:21 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:39:21 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:39:22 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:39:22 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:39:22 INFO  time: compiled practicle3_f4dd477a3a in 0.12s
+2024.07.01 18:39:23 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:39:22 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:39:23 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:39:23 INFO  time: compiled practicle3_f4dd477a3a in 0.19s
+2024.07.01 18:39:46 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:39:46 INFO  time: compiled practicle3_f4dd477a3a in 0.18s
+2024.07.01 18:40:01 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:40:01 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:40:01 INFO  time: compiled practicle3_f4dd477a3a in 0.15s
+2024.07.01 18:40:24 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:40:24 INFO  time: compiled practicle3_f4dd477a3a in 0.19s
+2024.07.01 18:41:11 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:41:11 INFO  time: compiled practicle3_f4dd477a3a in 0.1s
+2024.07.01 18:41:12 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:41:12 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:41:13 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:41:13 INFO  time: compiled practicle3_f4dd477a3a in 0.14s
+2024.07.01 18:41:22 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:41:22 INFO  time: compiled practicle3_f4dd477a3a in 0.17s
+2024.07.01 18:41:24 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:41:24 INFO  time: compiled practicle3_f4dd477a3a in 0.12s
+2024.07.01 18:41:46 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:41:46 INFO  time: compiled practicle3_f4dd477a3a in 0.25s
+2024.07.01 18:42:01 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:42:01 INFO  time: compiled practicle3_f4dd477a3a in 0.1s
+2024.07.01 18:42:02 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:42:04 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:42:04 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:42:05 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:42:05 WARN  Could not load snapshot text for /Users/nishagi/myStuff/scalaPrac/practicle3/code3.scala
+2024.07.01 18:42:05 INFO  time: compiled practicle3_f4dd477a3a in 0.17s
+2024.07.01 18:42:18 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:42:18 INFO  time: compiled practicle3_f4dd477a3a in 0.26s
+2024.07.01 18:43:15 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:43:15 INFO  time: compiled practicle3_f4dd477a3a in 0.18s
+2024.07.01 18:43:16 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:43:16 INFO  time: compiled practicle3_f4dd477a3a in 0.15s
+2024.07.01 18:43:19 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:43:19 INFO  time: compiled practicle3_f4dd477a3a in 0.14s
+2024.07.01 18:44:05 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:44:05 INFO  time: compiled practicle3_f4dd477a3a in 0.17s
+2024.07.01 18:44:11 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:44:11 INFO  time: compiled practicle3_f4dd477a3a in 0.13s
+2024.07.01 18:47:09 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:47:09 INFO  time: compiled practicle3_f4dd477a3a in 0.18s
+2024.07.01 18:47:11 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:47:11 INFO  time: compiled practicle3_f4dd477a3a in 0.15s
+2024.07.01 18:47:13 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:47:13 INFO  time: compiled practicle3_f4dd477a3a in 0.15s
+2024.07.01 18:48:03 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:48:03 INFO  time: compiled practicle3_f4dd477a3a in 0.2s
+2024.07.01 18:49:07 INFO  compiling practicle3_f4dd477a3a (1 scala source)
+2024.07.01 18:49:07 INFO  time: compiled practicle3_f4dd477a3a in 0.2s
+2024.07.01 18:49:55 INFO  Shutting down server
+2024.07.01 18:49:55 INFO  shutting down Metals
+2024.07.01 18:49:55 INFO  Shut down connection with build server.
+2024.07.01 18:49:55 INFO  Exiting server
