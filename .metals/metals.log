@@ -12083,3 +12083,17 @@ Caused by: java.lang.StringIndexOutOfBoundsException: begin 362, end 379, length
 2024.07.07 03:52:20 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
 2024.07.07 03:52:23 INFO  compiling scalaprac_f4dd477a3a (6 scala sources)
 2024.07.07 03:52:23 INFO  time: compiled scalaPrac_f4dd477a3a in 86ms
+2024.07.07 03:53:48 INFO  compiling scalaprac_f4dd477a3a (6 scala sources)
+2024.07.07 03:53:48 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.07.07 03:53:51 INFO  compiling scalaprac_f4dd477a3a (6 scala sources)
+2024.07.07 03:53:51 INFO  time: compiled scalaPrac_f4dd477a3a in 84ms
+2024.07.07 03:53:52 INFO  compiling scalaprac_f4dd477a3a (6 scala sources)
+2024.07.07 03:53:52 INFO  time: compiled scalaPrac_f4dd477a3a in 97ms
+2024.07.07 03:54:05 INFO  compiling scalaprac_f4dd477a3a (6 scala sources)
+2024.07.07 03:54:05 INFO  time: compiled scalaPrac_f4dd477a3a in 0.16s
+2024.07.07 03:54:08 INFO  compiling scalaprac_f4dd477a3a (6 scala sources)
+2024.07.07 03:54:08 INFO  time: compiled scalaPrac_f4dd477a3a in 91ms
+2024.07.07 03:54:09 INFO  compiling scalaprac_f4dd477a3a (6 scala sources)
+2024.07.07 03:54:09 INFO  time: compiled scalaPrac_f4dd477a3a in 84ms
+ජූලි 07, 2024 3:54:13 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8483

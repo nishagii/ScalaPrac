@@ -22,10 +22,30 @@ object inventory {
     }
   }
 
+  def sellItem(name: String, quantity: Int): Unit = {
+    val index = itemName.indexOf(name)
+
+    if (index >= 0) {
+      if (itemQuantity(index) >= quantity) {
+        itemQuantity(index) -= quantity;
+        println(
+          s"Sold $quantity of $name. Remaining quantity: ${itemQuantity(index)}"
+        )
+      } else {
+        println(
+          s"Not enough quantity of $name to sell. Current quantity: ${itemQuantity(index)}"
+        )
+      }
+
+    }else{
+        println(s"item $name not found in the inventory")
+    }
+  }
+
   
   def main(args: Array[String]): Unit = {
     displayInventory(4);
     reStockItems("A", 5);
-    
+    sellItem("c",2);
   }
 }
