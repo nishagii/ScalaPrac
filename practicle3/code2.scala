@@ -3,7 +3,6 @@ object StringFilterApp {
     def filterHelper(lst: List[String], acc: List[String]): List[String] = {
       lst match {
         case Nil => acc
-        case head :: tail =>
           if (head.length > 5)
             filterHelper(tail, acc :+ head)
           else
