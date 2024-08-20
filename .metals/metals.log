@@ -15519,3 +15519,1003 @@ WARNING: Unmatched cancel notification for request id 33
 2024.08.13 10:56:30 INFO  time: compiled scalaPrac_f4dd477a3a in 0.27s
 අගෝ 13, 2024 12:19:36 ප.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+අගෝ 13, 2024 12:24:59 ප.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 271
+2024.08.13 12:30:56 INFO  compiling scalaprac_f4dd477a3a (24 scala sources)
+2024.08.13 12:30:56 INFO  time: compiled scalaPrac_f4dd477a3a in 0.45s
+2024.08.13 12:31:03 INFO  compiling scalaprac_f4dd477a3a (24 scala sources)
+2024.08.13 12:31:03 INFO  time: compiled scalaPrac_f4dd477a3a in 0.23s
+2024.08.13 12:31:05 INFO  compiling scalaprac_f4dd477a3a (24 scala sources)
+2024.08.13 12:31:05 INFO  time: compiled scalaPrac_f4dd477a3a in 0.3s
+2024.08.13 13:19:13 INFO  Shutting down server
+2024.08.13 13:19:13 INFO  shutting down Metals
+2024.08.13 13:19:14 INFO  Shut down connection with build server.
+2024.08.13 13:19:13 INFO  Exiting server
+2024.08.20 00:07:18 INFO  Started: Metals version 1.3.5 in folders '/Users/nishagi/myStuff/scalaPrac' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@35233252]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@40ec0dc2]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@35233252]
+2024.08.20 00:07:18 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.20 00:07:19 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle7/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 00:07:19 WARN  scala-cli >= 0.1.3 not found in PATH, fetching and starting a JVM-based Scala CLI
+අගෝ 20, 2024 12:07:20 පෙ.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+අගෝ 20, 2024 12:07:21 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+අගෝ 20, 2024 12:07:21 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2024.08.20 00:07:21 INFO  Running List(/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/bin/java, -cp, /Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/cli_3/1.4.1/cli_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app_3/2.1.0-M28/case-app_3-2.1.0-M28.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-launcher_2.13/2.1.10/coursier-launcher_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-proxy-setup/2.1.10/coursier-proxy-setup-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/publish/publish_2.13/0.1.6/publish_2.13-0.1.6.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/jimfs/jimfs/1.3.0/jimfs-1.3.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/jniutils/windows-jni-utils/0.3.3/windows-jni-utils-0.3.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_3/2.13.5.2/jsoniter-scala-core_3-2.13.5.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/libsodiumjni/0.0.4/libsodiumjni-0.0.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_3/0.12.0/metaconfig-typesafe-config_3-0.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ai/kien/python-native-libs_3/0.2.4/python-native-libs_3-0.2.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-packager_2.13/0.1.29/scala-packager_2.13-0.1.29.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/cli_3/0.2.3/cli_3-0.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-nop/2.0.13/slf4j-nop-2.0.13.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/client3/core_2.13/3.9.7/core_2.13-3.9.7.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.3/scala3-library_3-3.3.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-module_3/1.4.1/build-module_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/config_3/1.4.1/config_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala3-graal_3/1.4.1/scala3-graal_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/specification-level_3/1.4.1/specification-level_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_3/0.4.2/sourcecode_3-0.4.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-annotations_3/2.1.0-M28/case-app-annotations_3-2.1.0-M28.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-util_3/2.1.0-M28/case-app-util_3-2.1.0-M28.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/tmp/zip-input-stream/0.1.1/zip-input-stream-0.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.13/2.1.10/coursier-cache_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-core_2.13/2.1.10/coursier-core_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/guava/33.2.1-jre/guava-33.2.1-jre.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-core_3/0.12.0/metaconfig-core_3-0.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_3/2.12.0/scala-collection-compat_3-2.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-io/commons-io/2.15.0/commons-io-2.15.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-core/0.22.0/jib-core-0.22.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcpg-jdk18on/1.76/bcpg-jdk18on-1.76.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/shared_3/0.2.3/shared_3-0.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/model/core_2.13/1.7.9/core_2.13-1.7.9.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/core_2.13/1.3.16/core_2.13-1.3.16.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/ws_2.13/1.3.16/ws_2.13-1.3.16.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm/9.7/asm-9.7.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/java-class-name/java-class-name_3/0.1.3/java-class-name_3-0.1.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/semanticdb-shared_2.13.14/4.9.8/semanticdb-shared_2.13.14-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/test-runner_3/0.5.4/test-runner_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_3/0.10.2/os-lib_3-0.10.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/pprint_3/0.9.0/pprint_3-0.9.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-nodejs_2.13/1.4.0/scalajs-env-nodejs_2.13-1.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-sbt-test-adapter_2.13/1.16.0/scalajs-sbt-test-adapter_2.13-1.16.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.12/file-tree-views-2.1.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/zip-input-stream/zip-input-stream/0.1.2/zip-input-stream-0.1.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/options_3/1.4.1/options_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/directives_3/1.4.1/directives_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala-cli-bsp/1.4.1/scala-cli-bsp-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/test-runner_3/1.4.1/test-runner_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/tasty-lib_3/1.4.1/tasty-lib_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-archiver/4.9.0/plexus-archiver-4.9.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/2.1.1/plexus-container-default-2.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/windows-ansi/windows-ansi/0.0.5/windows-ansi-0.0.5.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-util_2.13/2.1.10/coursier-util_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/concurrent-reference-hash-map/1.1.0/concurrent-reference-hash-map-1.1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/2.3.0/scala-xml_2.13-2.3.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.26.1/error_prone_annotations-2.26.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_3/0.12.0/metaconfig-pprint_3-0.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/paiges-core_3/0.4.3/paiges-core_3-0.4.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.14/scala-reflect-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-build-plan/0.4.0/jib-build-plan-0.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client/1.34.0/google-http-client-1.34.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-apache-v2/1.34.0/google-http-client-apache-v2-1.34.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-oauth2-http/0.18.0/google-auth-library-oauth2-http-0.18.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-compress/1.24.0/commons-compress-1.24.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.13.3/jackson-datatype-jsr310-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk18on/1.76/bcprov-jdk18on-1.76.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.3.1/scala3-compiler_3-3.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.9.8/scalameta_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.13/0.11.17/scalapb-runtime_2.13-0.11.17.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/tools_3/0.5.4/tools_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/sbt/junit-interface/0.13.3/junit-interface-0.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_3/1.1.0/geny_3-1.1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fansi_3/0.5.0/fansi_3-0.5.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_2.13/1.4.0/scalajs-js-envs_2.13-1.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.13/2.0.2/bloop-config_2.13-2.0.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/core_3/1.4.1/core_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/using_directives/1.1.1/using_directives-1.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-macros_3/1.4.1/build-macros_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bsp4j/2.1.1/bsp4j-2.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-io/3.4.1/plexus-io-3.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/tukaani/xz/1.9/xz-1.9.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.5-10/zstd-jni-1.5.5-10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.6.0/plexus-classworlds-2.6.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.18/jansi-1.18.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-api/0.24.0/opencensus-api-0.24.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-contrib-http-util/0.24.0/opencensus-contrib-http-util-0.24.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auto/value/auto-value-annotations/1.6.6/auto-value-annotations-1.6.6.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-credentials/0.18.0/google-auth-library-credentials-0.18.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-jackson2/1.32.1/google-http-client-jackson2-1.32.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.3.1/scala3-interfaces-3.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.3.1/tasty-core_3-3.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.5.0-scala-1/scala-asm-9.5.0-scala-1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.3.5/compiler-interface-1.3.5.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.9.8/parsers_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scalap/2.13.14/scalap-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.13/0.11.17/lenses_2.13-0.11.17.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.19.6/protobuf-java-3.19.6.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.12.0/scala-collection-compat_2.13-2.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/nir_3/0.5.4/nir_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/util_3/0.5.4/util_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-logging_2.13/1.1.1/scalajs-logging_2.13-1.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_2.13/0.1.12/unroll-annotation_2.13-0.1.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-rifle_2.13/1.5.17-sc-2/bloop-rifle_2.13-1.5.17-sc-2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-jvm_2.13/2.1.10/coursier-jvm_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/dependency_3/0.2.3/dependency_3-0.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/6.8.0.202311291450-r/org.eclipse.jgit-6.8.0.202311291450-r.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-jsdom-nodejs_2.13/1.1.0/scalajs-env-jsdom-nodejs_2.13-1.1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.generator/0.20.1/org.eclipse.lsp4j.generator-0.20.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.jsonrpc/0.20.1/org.eclipse.lsp4j.jsonrpc-0.20.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/grpc/grpc-context/1.22.1/grpc-context-1.22.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.3.0/util-interface-1.3.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/trees_2.13/4.9.8/trees_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.14/scala-compiler-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.13/0.0.11/libdaemon_2.13-0.0.11.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/snailgun/snailgun-core_2.13/0.4.1-sc2/snailgun-core_2.13-0.4.1-sc2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.3_2.13/1.3.1/argonaut-shapeless_6.3_2.13-1.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier_2.13/2.1.10/coursier_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-env_2.13/2.1.10/coursier-env_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.2.3/JavaEWAH-1.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.28.0/org.eclipse.xtend.lib-2.28.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/common_2.13/4.9.8/common_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.12/java-diff-utils-4.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/argonaut/argonaut_2.13/6.3.8/argonaut_2.13-6.3.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.9/shapeless_2.13-2.3.9.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/2.28.0/org.eclipse.xtext.xbase.lib-2.28.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib.macro/2.28.0/org.eclipse.xtend.lib.macro-2.28.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.4.2/sourcecode_2.13-0.4.2.jar, scala.cli.ScalaCli, bsp, /Users/nishagi/myStuff/scalaPrac)
+2024.08.20 00:07:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nishagi/myStuff/scalaPrac/.metals/bsp.trace.json or /Users/nishagi/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.08.20 00:07:23 INFO  Scala CLI: Starting compilation server
+2024.08.20 00:07:25 INFO  Connected to Scala CLI server v1.4.1
+2024.08.20 00:07:26 INFO  compiling scalaprac_f4dd477a3a (24 scala sources)
+2024.08.20 00:07:27 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.20 00:07:27 INFO  time: indexed workspace in 1.68s
+2024.08.20 00:07:27 INFO  time: compiled scalaPrac_f4dd477a3a in 1.79s
+2024.08.20 00:07:27 INFO  compiling scalaprac_f4dd477a3a (24 scala sources)
+2024.08.20 00:07:27 INFO  time: compiled scalaPrac_f4dd477a3a in 0.42s
+2024.08.20 00:07:27 INFO  compiling scalaprac_f4dd477a3a (24 scala sources)
+2024.08.20 00:07:27 INFO  time: compiled scalaPrac_f4dd477a3a in 0.26s
+2024.08.20 00:07:30 INFO  Scala CLI started for /Users/nishagi/myStuff/scalaPrac
+2024.08.20 00:07:30 WARN  no build tool detected in workspace '/Users/nishagi/myStuff/scalaPrac'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.08.20 00:07:30 WARN  Build server is not auto-connectable.
+2024.08.20 00:07:30 INFO  compiling scalaprac_f4dd477a3a (24 scala sources)
+2024.08.20 00:07:30 INFO  time: compiled scalaPrac_f4dd477a3a in 0.3s
+2024.08.20 00:08:42 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle8/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 00:08:42 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle8/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 00:09:11 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 00:09:11 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 00:09:11 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 00:09:12 WARN  No build server connected
+2024.08.20 00:09:12 INFO  compiling scalaprac_f4dd477a3a (25 scala sources)
+2024.08.20 00:09:12 INFO  time: compiled scalaPrac_f4dd477a3a in 0.25s
+2024.08.20 00:09:12 INFO  compiling scalaprac_f4dd477a3a (25 scala sources)
+2024.08.20 00:09:12 INFO  time: compiled scalaPrac_f4dd477a3a in 0.21s
+2024.08.20 00:09:16 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 00:09:16 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 00:09:16 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+2024.08.20 00:09:16 WARN  No build server connected
+2024.08.20 00:09:16 INFO  compiling scalaprac_f4dd477a3a (26 scala sources)
+2024.08.20 00:09:16 INFO  time: compiled scalaPrac_f4dd477a3a in 0.2s
+2024.08.20 00:09:16 INFO  compiling scalaprac_f4dd477a3a (26 scala sources)
+2024.08.20 00:09:16 INFO  time: compiled scalaPrac_f4dd477a3a in 0.19s
+2024.08.20 00:09:26 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 00:09:26 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 00:09:26 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code3.scala
+2024.08.20 00:09:27 WARN  No build server connected
+2024.08.20 00:09:27 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 00:09:27 INFO  time: compiled scalaPrac_f4dd477a3a in 0.17s
+2024.08.20 00:09:27 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 00:09:27 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 00:10:36 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 00:10:36 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 08:52:47 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle8/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 08:53:05 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 08:53:05 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 08:53:05 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 08:53:05 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 08:53:05 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 08:53:06 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 08:53:06 WARN  no build target for: /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 08:53:06 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 08:53:06 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 08:53:07 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 08:53:08 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 08:53:08 INFO  time: compiled scalaPrac_f4dd477a3a in 0.23s
+2024.08.20 08:53:09 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 08:53:09 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+2024.08.20 08:53:09 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 08:53:11 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 08:53:11 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 08:53:11 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+2024.08.20 08:53:21 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 08:53:21 INFO  time: compiled scalaPrac_f4dd477a3a in 0.2s
+2024.08.20 08:53:21 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 08:53:21 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+2024.08.20 08:53:29 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 08:53:29 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 08:53:29 INFO  time: compiled scalaPrac_f4dd477a3a in 0.17s
+2024.08.20 08:53:30 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 08:53:30 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+2024.08.20 08:53:30 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 08:53:30 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 08:53:30 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 08:53:30 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 08:53:31 WARN  no build target for: /Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+2024.08.20 08:53:31 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 08:53:35 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 08:53:35 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 08:53:35 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 08:53:36 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 08:53:38 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 08:53:38 INFO  time: compiled scalaPrac_f4dd477a3a in 0.16s
+2024.08.20 08:53:44 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 08:53:44 INFO  time: compiled scalaPrac_f4dd477a3a in 0.22s
+2024.08.20 08:53:49 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 08:53:49 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 08:53:50 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 08:53:50 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 08:53:52 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 08:53:52 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 08:53:59 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 08:53:59 INFO  time: compiled scalaPrac_f4dd477a3a in 0.2s
+2024.08.20 08:54:03 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 08:54:03 INFO  time: compiled scalaPrac_f4dd477a3a in 0.16s
+2024.08.20 08:54:04 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 08:54:04 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 08:54:07 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 08:54:07 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 08:54:16 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 08:54:16 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 08:54:20 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 08:54:20 INFO  time: compiled scalaPrac_f4dd477a3a in 0.17s
+2024.08.20 08:54:24 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 08:54:24 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:05:34 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:05:34 INFO  time: compiled scalaPrac_f4dd477a3a in 0.19s
+2024.08.20 09:05:36 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:05:36 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:05:39 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:05:39 INFO  time: compiled scalaPrac_f4dd477a3a in 0.16s
+2024.08.20 09:05:52 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:05:52 INFO  time: compiled scalaPrac_f4dd477a3a in 0.17s
+2024.08.20 09:05:55 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:05:55 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:06:00 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:06:00 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:06:06 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:06:06 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:06:07 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:06:07 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:06:09 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:06:09 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:06:11 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:06:11 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:06:13 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:06:13 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:06:16 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:06:16 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:07:07 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:07 INFO  time: compiled scalaPrac_f4dd477a3a in 0.2s
+2024.08.20 09:07:08 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:08 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:07:09 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:09 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:07:12 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:12 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:07:15 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:15 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:07:17 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:17 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:07:19 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:19 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:07:24 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:24 INFO  time: compiled scalaPrac_f4dd477a3a in 0.19s
+2024.08.20 09:07:27 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:27 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:07:28 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:28 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+අගෝ 20, 2024 9:07:33 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1070
+2024.08.20 09:07:35 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:35 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:07:38 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:38 INFO  time: compiled scalaPrac_f4dd477a3a in 96ms
+2024.08.20 09:07:40 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:40 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:07:42 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:42 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:07:51 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:51 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:07:52 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:52 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:07:58 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:07:58 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:08:01 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:08:01 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:08:09 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:08:09 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:08:11 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:08:11 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:08:13 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:08:13 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:08:14 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:08:14 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:08:20 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:08:20 INFO  time: compiled scalaPrac_f4dd477a3a in 0.19s
+2024.08.20 09:08:21 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:08:21 INFO  time: compiled scalaPrac_f4dd477a3a in 91ms
+2024.08.20 09:08:23 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:08:23 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:08:26 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:08:26 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:08:29 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:08:29 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:08:33 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:08:33 INFO  time: compiled scalaPrac_f4dd477a3a in 0.32s
+2024.08.20 09:08:39 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:08:39 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+අගෝ 20, 2024 9:09:50 පෙ.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.08.20 09:10:08 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:08 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:10:10 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:10 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:10:12 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:12 INFO  time: compiled scalaPrac_f4dd477a3a in 0.25s
+2024.08.20 09:10:14 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:14 INFO  time: compiled scalaPrac_f4dd477a3a in 0.19s
+2024.08.20 09:10:21 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:21 INFO  time: compiled scalaPrac_f4dd477a3a in 0.24s
+2024.08.20 09:10:28 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:28 INFO  time: compiled scalaPrac_f4dd477a3a in 0.23s
+2024.08.20 09:10:29 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:29 INFO  time: compiled scalaPrac_f4dd477a3a in 0.19s
+2024.08.20 09:10:30 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:30 INFO  time: compiled scalaPrac_f4dd477a3a in 0.2s
+2024.08.20 09:10:33 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:33 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:10:36 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:36 INFO  time: compiled scalaPrac_f4dd477a3a in 0.18s
+2024.08.20 09:10:40 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:40 INFO  time: compiled scalaPrac_f4dd477a3a in 0.18s
+2024.08.20 09:10:50 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:50 INFO  time: compiled scalaPrac_f4dd477a3a in 0.24s
+2024.08.20 09:10:52 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:52 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:10:55 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:55 INFO  time: compiled scalaPrac_f4dd477a3a in 0.25s
+2024.08.20 09:10:56 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:56 INFO  time: compiled scalaPrac_f4dd477a3a in 90ms
+2024.08.20 09:10:58 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:10:58 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:11:03 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:03 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:11:04 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:04 INFO  time: compiled scalaPrac_f4dd477a3a in 87ms
+2024.08.20 09:11:06 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:06 INFO  time: compiled scalaPrac_f4dd477a3a in 0.22s
+2024.08.20 09:11:10 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:10 INFO  time: compiled scalaPrac_f4dd477a3a in 0.23s
+2024.08.20 09:11:13 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:13 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:11:14 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:14 INFO  time: compiled scalaPrac_f4dd477a3a in 0.17s
+2024.08.20 09:11:16 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:16 INFO  time: compiled scalaPrac_f4dd477a3a in 0.2s
+2024.08.20 09:11:17 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:17 INFO  time: compiled scalaPrac_f4dd477a3a in 0.17s
+2024.08.20 09:11:22 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:22 INFO  time: compiled scalaPrac_f4dd477a3a in 0.2s
+2024.08.20 09:11:24 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:24 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:11:26 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:26 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:11:29 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:29 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:11:31 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:31 INFO  time: compiled scalaPrac_f4dd477a3a in 96ms
+2024.08.20 09:11:41 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:41 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:11:43 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:43 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:11:44 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:11:44 INFO  time: compiled scalaPrac_f4dd477a3a in 88ms
+2024.08.20 09:11:56 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle8/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 09:11:56 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle8/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 09:12:09 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle8/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 09:12:09 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle8/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 09:12:09 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle8/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 09:12:22 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle8/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 09:12:31 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:12:31 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:12:35 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:12:35 INFO  time: compiled scalaPrac_f4dd477a3a in 98ms
+2024.08.20 09:12:38 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:12:38 INFO  time: compiled scalaPrac_f4dd477a3a in 0.22s
+2024.08.20 09:12:44 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:12:44 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+අගෝ 20, 2024 9:13:24 පෙ.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+අගෝ 20, 2024 9:13:35 පෙ.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+අගෝ 20, 2024 9:13:36 පෙ.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.08.20 09:14:02 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:14:02 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:14:14 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:14:14 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:14:16 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:14:16 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:14:17 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:14:17 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:14:28 INFO  Shutting down server
+2024.08.20 09:14:28 INFO  shutting down Metals
+2024.08.20 09:14:29 INFO  Shut down connection with build server.
+2024.08.20 09:14:28 INFO  Exiting server
+2024.08.20 09:14:39 INFO  Started: Metals version 1.3.5 in folders '/Users/nishagi/myStuff/scalaPrac' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@717b8573]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@11454161]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@717b8573]
+2024.08.20 09:14:39 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+අගෝ 20, 2024 9:14:41 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+අගෝ 20, 2024 9:14:41 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+අගෝ 20, 2024 9:14:41 පෙ.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.08.20 09:14:41 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 09:14:41 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 09:14:41 WARN  scala-cli >= 0.1.3 not found in PATH, fetching and starting a JVM-based Scala CLI
+2024.08.20 09:14:41 INFO  Running List(/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/bin/java, -cp, /Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/cli_3/1.4.1/cli_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app_3/2.1.0-M28/case-app_3-2.1.0-M28.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-launcher_2.13/2.1.10/coursier-launcher_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-proxy-setup/2.1.10/coursier-proxy-setup-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/publish/publish_2.13/0.1.6/publish_2.13-0.1.6.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/jimfs/jimfs/1.3.0/jimfs-1.3.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/jniutils/windows-jni-utils/0.3.3/windows-jni-utils-0.3.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_3/2.13.5.2/jsoniter-scala-core_3-2.13.5.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/libsodiumjni/0.0.4/libsodiumjni-0.0.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_3/0.12.0/metaconfig-typesafe-config_3-0.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ai/kien/python-native-libs_3/0.2.4/python-native-libs_3-0.2.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-packager_2.13/0.1.29/scala-packager_2.13-0.1.29.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/cli_3/0.2.3/cli_3-0.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-nop/2.0.13/slf4j-nop-2.0.13.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/client3/core_2.13/3.9.7/core_2.13-3.9.7.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.3/scala3-library_3-3.3.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-module_3/1.4.1/build-module_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/config_3/1.4.1/config_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala3-graal_3/1.4.1/scala3-graal_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/specification-level_3/1.4.1/specification-level_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_3/0.4.2/sourcecode_3-0.4.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-annotations_3/2.1.0-M28/case-app-annotations_3-2.1.0-M28.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-util_3/2.1.0-M28/case-app-util_3-2.1.0-M28.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/tmp/zip-input-stream/0.1.1/zip-input-stream-0.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.13/2.1.10/coursier-cache_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-core_2.13/2.1.10/coursier-core_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/guava/33.2.1-jre/guava-33.2.1-jre.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-core_3/0.12.0/metaconfig-core_3-0.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_3/2.12.0/scala-collection-compat_3-2.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-io/commons-io/2.15.0/commons-io-2.15.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-core/0.22.0/jib-core-0.22.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcpg-jdk18on/1.76/bcpg-jdk18on-1.76.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/shared_3/0.2.3/shared_3-0.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/model/core_2.13/1.7.9/core_2.13-1.7.9.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/core_2.13/1.3.16/core_2.13-1.3.16.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/ws_2.13/1.3.16/ws_2.13-1.3.16.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm/9.7/asm-9.7.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/java-class-name/java-class-name_3/0.1.3/java-class-name_3-0.1.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/semanticdb-shared_2.13.14/4.9.8/semanticdb-shared_2.13.14-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/test-runner_3/0.5.4/test-runner_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_3/0.10.2/os-lib_3-0.10.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/pprint_3/0.9.0/pprint_3-0.9.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-nodejs_2.13/1.4.0/scalajs-env-nodejs_2.13-1.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-sbt-test-adapter_2.13/1.16.0/scalajs-sbt-test-adapter_2.13-1.16.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.12/file-tree-views-2.1.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/zip-input-stream/zip-input-stream/0.1.2/zip-input-stream-0.1.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/options_3/1.4.1/options_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/directives_3/1.4.1/directives_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala-cli-bsp/1.4.1/scala-cli-bsp-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/test-runner_3/1.4.1/test-runner_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/tasty-lib_3/1.4.1/tasty-lib_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-archiver/4.9.0/plexus-archiver-4.9.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/2.1.1/plexus-container-default-2.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/windows-ansi/windows-ansi/0.0.5/windows-ansi-0.0.5.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-util_2.13/2.1.10/coursier-util_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/concurrent-reference-hash-map/1.1.0/concurrent-reference-hash-map-1.1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/2.3.0/scala-xml_2.13-2.3.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.26.1/error_prone_annotations-2.26.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_3/0.12.0/metaconfig-pprint_3-0.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/paiges-core_3/0.4.3/paiges-core_3-0.4.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.14/scala-reflect-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-build-plan/0.4.0/jib-build-plan-0.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client/1.34.0/google-http-client-1.34.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-apache-v2/1.34.0/google-http-client-apache-v2-1.34.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-oauth2-http/0.18.0/google-auth-library-oauth2-http-0.18.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-compress/1.24.0/commons-compress-1.24.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.13.3/jackson-datatype-jsr310-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk18on/1.76/bcprov-jdk18on-1.76.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.3.1/scala3-compiler_3-3.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.9.8/scalameta_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.13/0.11.17/scalapb-runtime_2.13-0.11.17.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/tools_3/0.5.4/tools_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/sbt/junit-interface/0.13.3/junit-interface-0.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_3/1.1.0/geny_3-1.1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fansi_3/0.5.0/fansi_3-0.5.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_2.13/1.4.0/scalajs-js-envs_2.13-1.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.13/2.0.2/bloop-config_2.13-2.0.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/core_3/1.4.1/core_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/using_directives/1.1.1/using_directives-1.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-macros_3/1.4.1/build-macros_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bsp4j/2.1.1/bsp4j-2.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-io/3.4.1/plexus-io-3.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/tukaani/xz/1.9/xz-1.9.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.5-10/zstd-jni-1.5.5-10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.6.0/plexus-classworlds-2.6.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.18/jansi-1.18.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-api/0.24.0/opencensus-api-0.24.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-contrib-http-util/0.24.0/opencensus-contrib-http-util-0.24.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auto/value/auto-value-annotations/1.6.6/auto-value-annotations-1.6.6.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-credentials/0.18.0/google-auth-library-credentials-0.18.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-jackson2/1.32.1/google-http-client-jackson2-1.32.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.3.1/scala3-interfaces-3.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.3.1/tasty-core_3-3.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.5.0-scala-1/scala-asm-9.5.0-scala-1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.3.5/compiler-interface-1.3.5.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.9.8/parsers_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scalap/2.13.14/scalap-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.13/0.11.17/lenses_2.13-0.11.17.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.19.6/protobuf-java-3.19.6.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.12.0/scala-collection-compat_2.13-2.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/nir_3/0.5.4/nir_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/util_3/0.5.4/util_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-logging_2.13/1.1.1/scalajs-logging_2.13-1.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_2.13/0.1.12/unroll-annotation_2.13-0.1.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-rifle_2.13/1.5.17-sc-2/bloop-rifle_2.13-1.5.17-sc-2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-jvm_2.13/2.1.10/coursier-jvm_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/dependency_3/0.2.3/dependency_3-0.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/6.8.0.202311291450-r/org.eclipse.jgit-6.8.0.202311291450-r.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-jsdom-nodejs_2.13/1.1.0/scalajs-env-jsdom-nodejs_2.13-1.1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.generator/0.20.1/org.eclipse.lsp4j.generator-0.20.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.jsonrpc/0.20.1/org.eclipse.lsp4j.jsonrpc-0.20.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/grpc/grpc-context/1.22.1/grpc-context-1.22.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.3.0/util-interface-1.3.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/trees_2.13/4.9.8/trees_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.14/scala-compiler-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.13/0.0.11/libdaemon_2.13-0.0.11.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/snailgun/snailgun-core_2.13/0.4.1-sc2/snailgun-core_2.13-0.4.1-sc2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.3_2.13/1.3.1/argonaut-shapeless_6.3_2.13-1.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier_2.13/2.1.10/coursier_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-env_2.13/2.1.10/coursier-env_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.2.3/JavaEWAH-1.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.28.0/org.eclipse.xtend.lib-2.28.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/common_2.13/4.9.8/common_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.12/java-diff-utils-4.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/argonaut/argonaut_2.13/6.3.8/argonaut_2.13-6.3.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.9/shapeless_2.13-2.3.9.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/2.28.0/org.eclipse.xtext.xbase.lib-2.28.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib.macro/2.28.0/org.eclipse.xtend.lib.macro-2.28.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.4.2/sourcecode_2.13-0.4.2.jar, scala.cli.ScalaCli, bsp, /Users/nishagi/myStuff/scalaPrac)
+2024.08.20 09:14:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nishagi/myStuff/scalaPrac/.metals/bsp.trace.json or /Users/nishagi/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.08.20 09:14:42 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 09:14:42 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 09:14:42 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 09:14:43 WARN  no build target for: /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala
+2024.08.20 09:14:43 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+අගෝ 20, 2024 9:14:43 පෙ.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+අගෝ 20, 2024 9:14:43 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+අගෝ 20, 2024 9:14:43 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+අගෝ 20, 2024 9:14:43 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+අගෝ 20, 2024 9:14:43 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+2024.08.20 09:14:45 INFO  Connected to Scala CLI server v1.4.1
+2024.08.20 09:14:45 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:14:45 INFO  time: compiled scalaPrac_f4dd477a3a in 0.26s
+2024.08.20 09:14:45 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:14:45 INFO  time: compiled scalaPrac_f4dd477a3a in 94ms
+2024.08.20 09:14:46 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.20 09:14:46 INFO  time: indexed workspace in 1.64s
+2024.08.20 09:14:47 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:14:47 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:14:47 INFO  Scala CLI started for /Users/nishagi/myStuff/scalaPrac
+2024.08.20 09:14:46 WARN  no build tool detected in workspace '/Users/nishagi/myStuff/scalaPrac'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.08.20 09:14:47 WARN  Build server is not auto-connectable.
+2024.08.20 09:14:47 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:14:47 INFO  time: compiled scalaPrac_f4dd477a3a in 0.17s
+2024.08.20 09:14:47 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:14:47 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:14:49 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:14:49 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+අගෝ 20, 2024 9:15:30 පෙ.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+අගෝ 20, 2024 9:15:30 පෙ.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+අගෝ 20, 2024 9:15:33 පෙ.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+අගෝ 20, 2024 9:15:33 පෙ.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+අගෝ 20, 2024 9:15:38 පෙ.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.08.20 09:15:50 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:15:50 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:15:53 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:15:53 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:16:01 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:16:01 INFO  time: compiled scalaPrac_f4dd477a3a in 98ms
+2024.08.20 09:16:04 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:16:04 INFO  time: compiled scalaPrac_f4dd477a3a in 94ms
+2024.08.20 09:16:06 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:16:06 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:16:10 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:16:10 INFO  time: compiled scalaPrac_f4dd477a3a in 90ms
+2024.08.20 09:16:13 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:16:13 INFO  time: compiled scalaPrac_f4dd477a3a in 79ms
+2024.08.20 09:16:16 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:16:16 INFO  time: compiled scalaPrac_f4dd477a3a in 97ms
+2024.08.20 09:16:17 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:16:17 INFO  time: compiled scalaPrac_f4dd477a3a in 75ms
+2024.08.20 09:16:20 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:16:20 INFO  time: compiled scalaPrac_f4dd477a3a in 84ms
+2024.08.20 09:16:24 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:16:24 INFO  time: compiled scalaPrac_f4dd477a3a in 96ms
+2024.08.20 09:16:25 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:16:25 INFO  time: compiled scalaPrac_f4dd477a3a in 82ms
+2024.08.20 09:16:28 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:16:28 INFO  time: compiled scalaPrac_f4dd477a3a in 92ms
+2024.08.20 09:16:30 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:16:30 INFO  time: compiled scalaPrac_f4dd477a3a in 96ms
+2024.08.20 09:18:27 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:18:27 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+අගෝ 20, 2024 9:20:13 පෙ.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.08.20 09:20:29 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:20:29 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:20:36 INFO  Shutting down server
+2024.08.20 09:20:36 INFO  shutting down Metals
+2024.08.20 09:20:36 INFO  Shut down connection with build server.
+2024.08.20 09:20:36 INFO  Exiting server
+2024.08.20 09:20:44 INFO  Started: Metals version 1.3.5 in folders '/Users/nishagi/myStuff/scalaPrac' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@232c64c6]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@5deeb794]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@232c64c6]
+2024.08.20 09:20:44 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+අගෝ 20, 2024 9:20:45 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+අගෝ 20, 2024 9:20:45 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.08.20 09:20:45 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 09:20:45 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 09:20:46 WARN  scala-cli >= 0.1.3 not found in PATH, fetching and starting a JVM-based Scala CLI
+2024.08.20 09:20:46 INFO  Running List(/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/bin/java, -cp, /Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/cli_3/1.4.1/cli_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app_3/2.1.0-M28/case-app_3-2.1.0-M28.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-launcher_2.13/2.1.10/coursier-launcher_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-proxy-setup/2.1.10/coursier-proxy-setup-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/publish/publish_2.13/0.1.6/publish_2.13-0.1.6.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/jimfs/jimfs/1.3.0/jimfs-1.3.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/jniutils/windows-jni-utils/0.3.3/windows-jni-utils-0.3.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_3/2.13.5.2/jsoniter-scala-core_3-2.13.5.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/libsodiumjni/0.0.4/libsodiumjni-0.0.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_3/0.12.0/metaconfig-typesafe-config_3-0.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ai/kien/python-native-libs_3/0.2.4/python-native-libs_3-0.2.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-packager_2.13/0.1.29/scala-packager_2.13-0.1.29.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/cli_3/0.2.3/cli_3-0.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-nop/2.0.13/slf4j-nop-2.0.13.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/client3/core_2.13/3.9.7/core_2.13-3.9.7.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.3/scala3-library_3-3.3.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-module_3/1.4.1/build-module_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/config_3/1.4.1/config_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala3-graal_3/1.4.1/scala3-graal_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/specification-level_3/1.4.1/specification-level_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_3/0.4.2/sourcecode_3-0.4.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-annotations_3/2.1.0-M28/case-app-annotations_3-2.1.0-M28.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-util_3/2.1.0-M28/case-app-util_3-2.1.0-M28.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/tmp/zip-input-stream/0.1.1/zip-input-stream-0.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.13/2.1.10/coursier-cache_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-core_2.13/2.1.10/coursier-core_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/guava/33.2.1-jre/guava-33.2.1-jre.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-core_3/0.12.0/metaconfig-core_3-0.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_3/2.12.0/scala-collection-compat_3-2.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-io/commons-io/2.15.0/commons-io-2.15.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-core/0.22.0/jib-core-0.22.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcpg-jdk18on/1.76/bcpg-jdk18on-1.76.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/shared_3/0.2.3/shared_3-0.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/model/core_2.13/1.7.9/core_2.13-1.7.9.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/core_2.13/1.3.16/core_2.13-1.3.16.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/ws_2.13/1.3.16/ws_2.13-1.3.16.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm/9.7/asm-9.7.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/java-class-name/java-class-name_3/0.1.3/java-class-name_3-0.1.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/semanticdb-shared_2.13.14/4.9.8/semanticdb-shared_2.13.14-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/test-runner_3/0.5.4/test-runner_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_3/0.10.2/os-lib_3-0.10.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/pprint_3/0.9.0/pprint_3-0.9.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-nodejs_2.13/1.4.0/scalajs-env-nodejs_2.13-1.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-sbt-test-adapter_2.13/1.16.0/scalajs-sbt-test-adapter_2.13-1.16.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.12/file-tree-views-2.1.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/zip-input-stream/zip-input-stream/0.1.2/zip-input-stream-0.1.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/options_3/1.4.1/options_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/directives_3/1.4.1/directives_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala-cli-bsp/1.4.1/scala-cli-bsp-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/test-runner_3/1.4.1/test-runner_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/tasty-lib_3/1.4.1/tasty-lib_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-archiver/4.9.0/plexus-archiver-4.9.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/2.1.1/plexus-container-default-2.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/windows-ansi/windows-ansi/0.0.5/windows-ansi-0.0.5.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-util_2.13/2.1.10/coursier-util_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/concurrent-reference-hash-map/1.1.0/concurrent-reference-hash-map-1.1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/2.3.0/scala-xml_2.13-2.3.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.26.1/error_prone_annotations-2.26.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_3/0.12.0/metaconfig-pprint_3-0.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/paiges-core_3/0.4.3/paiges-core_3-0.4.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.14/scala-reflect-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-build-plan/0.4.0/jib-build-plan-0.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client/1.34.0/google-http-client-1.34.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-apache-v2/1.34.0/google-http-client-apache-v2-1.34.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-oauth2-http/0.18.0/google-auth-library-oauth2-http-0.18.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-compress/1.24.0/commons-compress-1.24.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.13.3/jackson-datatype-jsr310-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk18on/1.76/bcprov-jdk18on-1.76.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.3.1/scala3-compiler_3-3.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.9.8/scalameta_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.13/0.11.17/scalapb-runtime_2.13-0.11.17.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/tools_3/0.5.4/tools_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/sbt/junit-interface/0.13.3/junit-interface-0.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_3/1.1.0/geny_3-1.1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fansi_3/0.5.0/fansi_3-0.5.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_2.13/1.4.0/scalajs-js-envs_2.13-1.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.13/2.0.2/bloop-config_2.13-2.0.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/core_3/1.4.1/core_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/using_directives/1.1.1/using_directives-1.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-macros_3/1.4.1/build-macros_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bsp4j/2.1.1/bsp4j-2.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-io/3.4.1/plexus-io-3.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/tukaani/xz/1.9/xz-1.9.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.5-10/zstd-jni-1.5.5-10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.6.0/plexus-classworlds-2.6.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.18/jansi-1.18.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-api/0.24.0/opencensus-api-0.24.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-contrib-http-util/0.24.0/opencensus-contrib-http-util-0.24.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auto/value/auto-value-annotations/1.6.6/auto-value-annotations-1.6.6.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-credentials/0.18.0/google-auth-library-credentials-0.18.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-jackson2/1.32.1/google-http-client-jackson2-1.32.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.3.1/scala3-interfaces-3.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.3.1/tasty-core_3-3.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.5.0-scala-1/scala-asm-9.5.0-scala-1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.3.5/compiler-interface-1.3.5.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.9.8/parsers_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scalap/2.13.14/scalap-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.13/0.11.17/lenses_2.13-0.11.17.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.19.6/protobuf-java-3.19.6.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.12.0/scala-collection-compat_2.13-2.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/nir_3/0.5.4/nir_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/util_3/0.5.4/util_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-logging_2.13/1.1.1/scalajs-logging_2.13-1.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_2.13/0.1.12/unroll-annotation_2.13-0.1.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-rifle_2.13/1.5.17-sc-2/bloop-rifle_2.13-1.5.17-sc-2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-jvm_2.13/2.1.10/coursier-jvm_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/dependency_3/0.2.3/dependency_3-0.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/6.8.0.202311291450-r/org.eclipse.jgit-6.8.0.202311291450-r.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-jsdom-nodejs_2.13/1.1.0/scalajs-env-jsdom-nodejs_2.13-1.1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.generator/0.20.1/org.eclipse.lsp4j.generator-0.20.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.jsonrpc/0.20.1/org.eclipse.lsp4j.jsonrpc-0.20.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/grpc/grpc-context/1.22.1/grpc-context-1.22.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.3.0/util-interface-1.3.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/trees_2.13/4.9.8/trees_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.14/scala-compiler-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.13/0.0.11/libdaemon_2.13-0.0.11.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/snailgun/snailgun-core_2.13/0.4.1-sc2/snailgun-core_2.13-0.4.1-sc2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.3_2.13/1.3.1/argonaut-shapeless_6.3_2.13-1.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier_2.13/2.1.10/coursier_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-env_2.13/2.1.10/coursier-env_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.2.3/JavaEWAH-1.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.28.0/org.eclipse.xtend.lib-2.28.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/common_2.13/4.9.8/common_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.12/java-diff-utils-4.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/argonaut/argonaut_2.13/6.3.8/argonaut_2.13-6.3.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.9/shapeless_2.13-2.3.9.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/2.28.0/org.eclipse.xtext.xbase.lib-2.28.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib.macro/2.28.0/org.eclipse.xtend.lib.macro-2.28.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.4.2/sourcecode_2.13-0.4.2.jar, scala.cli.ScalaCli, bsp, /Users/nishagi/myStuff/scalaPrac)
+2024.08.20 09:20:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nishagi/myStuff/scalaPrac/.metals/bsp.trace.json or /Users/nishagi/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.08.20 09:20:49 INFO  Connected to Scala CLI server v1.4.1
+2024.08.20 09:20:49 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:20:49 INFO  time: compiled scalaPrac_f4dd477a3a in 0.21s
+2024.08.20 09:20:49 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:20:49 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:20:50 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.20 09:20:50 INFO  time: indexed workspace in 1.67s
+2024.08.20 09:20:51 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:20:51 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:20:51 INFO  Scala CLI started for /Users/nishagi/myStuff/scalaPrac
+2024.08.20 09:20:51 WARN  no build tool detected in workspace '/Users/nishagi/myStuff/scalaPrac'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.08.20 09:20:51 WARN  Build server is not auto-connectable.
+2024.08.20 09:20:51 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:20:51 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:20:51 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:20:51 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:20:55 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:20:55 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:20:57 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:20:57 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:20:58 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:20:58 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:20:59 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:20:59 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:21:01 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:21:01 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:21:02 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:21:02 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:21:04 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:21:04 INFO  time: compiled scalaPrac_f4dd477a3a in 85ms
+2024.08.20 09:21:10 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:21:10 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:21:13 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:21:13 INFO  time: compiled scalaPrac_f4dd477a3a in 98ms
+2024.08.20 09:21:15 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:21:15 INFO  time: compiled scalaPrac_f4dd477a3a in 87ms
+2024.08.20 09:21:25 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:21:25 INFO  time: compiled scalaPrac_f4dd477a3a in 91ms
+2024.08.20 09:21:29 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:21:29 INFO  time: compiled scalaPrac_f4dd477a3a in 94ms
+2024.08.20 09:21:36 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:21:36 INFO  time: compiled scalaPrac_f4dd477a3a in 90ms
+2024.08.20 09:21:43 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:21:43 INFO  time: compiled scalaPrac_f4dd477a3a in 86ms
+2024.08.20 09:22:40 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:22:40 INFO  time: compiled scalaPrac_f4dd477a3a in 0.23s
+2024.08.20 09:22:55 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:22:55 INFO  time: compiled scalaPrac_f4dd477a3a in 0.17s
+2024.08.20 09:23:00 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:23:00 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:23:04 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:23:04 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:23:06 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:23:06 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:23:10 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:23:10 INFO  time: compiled scalaPrac_f4dd477a3a in 0.17s
+2024.08.20 09:23:11 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:23:11 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:23:43 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:23:43 INFO  time: compiled scalaPrac_f4dd477a3a in 0.19s
+2024.08.20 09:24:17 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:24:17 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:25:26 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:25:26 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:26:27 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:26:27 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:26:50 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:26:50 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:26:53 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:26:53 INFO  time: compiled scalaPrac_f4dd477a3a in 86ms
+2024.08.20 09:26:55 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:26:55 INFO  time: compiled scalaPrac_f4dd477a3a in 81ms
+2024.08.20 09:26:58 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:26:58 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:27:04 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:27:04 INFO  time: compiled scalaPrac_f4dd477a3a in 82ms
+2024.08.20 09:27:07 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:27:07 INFO  time: compiled scalaPrac_f4dd477a3a in 89ms
+2024.08.20 09:27:10 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:27:10 INFO  time: compiled scalaPrac_f4dd477a3a in 80ms
+අගෝ 20, 2024 9:27:43 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 697
+2024.08.20 09:27:44 INFO  Shutting down server
+2024.08.20 09:27:44 INFO  shutting down Metals
+2024.08.20 09:27:45 INFO  Shut down connection with build server.
+2024.08.20 09:27:44 INFO  Exiting server
+2024.08.20 09:27:53 INFO  Started: Metals version 1.3.5 in folders '/Users/nishagi/myStuff/scalaPrac' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@79a031dc]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@478595b9]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@79a031dc]
+2024.08.20 09:27:53 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.20 09:27:54 INFO  no build target found for /Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.20 09:27:55 WARN  scala-cli >= 0.1.3 not found in PATH, fetching and starting a JVM-based Scala CLI
+2024.08.20 09:27:54 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+2024.08.20 09:27:55 INFO  Running List(/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/bin/java, -cp, /Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/cli_3/1.4.1/cli_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app_3/2.1.0-M28/case-app_3-2.1.0-M28.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-launcher_2.13/2.1.10/coursier-launcher_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-proxy-setup/2.1.10/coursier-proxy-setup-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/publish/publish_2.13/0.1.6/publish_2.13-0.1.6.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/jimfs/jimfs/1.3.0/jimfs-1.3.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/jniutils/windows-jni-utils/0.3.3/windows-jni-utils-0.3.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_3/2.13.5.2/jsoniter-scala-core_3-2.13.5.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/libsodiumjni/0.0.4/libsodiumjni-0.0.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_3/0.12.0/metaconfig-typesafe-config_3-0.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ai/kien/python-native-libs_3/0.2.4/python-native-libs_3-0.2.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-packager_2.13/0.1.29/scala-packager_2.13-0.1.29.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/cli_3/0.2.3/cli_3-0.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-nop/2.0.13/slf4j-nop-2.0.13.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/client3/core_2.13/3.9.7/core_2.13-3.9.7.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.3/scala3-library_3-3.3.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-module_3/1.4.1/build-module_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/config_3/1.4.1/config_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala3-graal_3/1.4.1/scala3-graal_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/specification-level_3/1.4.1/specification-level_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_3/0.4.2/sourcecode_3-0.4.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-annotations_3/2.1.0-M28/case-app-annotations_3-2.1.0-M28.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-util_3/2.1.0-M28/case-app-util_3-2.1.0-M28.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/tmp/zip-input-stream/0.1.1/zip-input-stream-0.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.13/2.1.10/coursier-cache_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-core_2.13/2.1.10/coursier-core_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/guava/33.2.1-jre/guava-33.2.1-jre.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-core_3/0.12.0/metaconfig-core_3-0.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_3/2.12.0/scala-collection-compat_3-2.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-io/commons-io/2.15.0/commons-io-2.15.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-core/0.22.0/jib-core-0.22.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcpg-jdk18on/1.76/bcpg-jdk18on-1.76.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/shared_3/0.2.3/shared_3-0.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/model/core_2.13/1.7.9/core_2.13-1.7.9.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/core_2.13/1.3.16/core_2.13-1.3.16.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/ws_2.13/1.3.16/ws_2.13-1.3.16.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm/9.7/asm-9.7.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/java-class-name/java-class-name_3/0.1.3/java-class-name_3-0.1.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/semanticdb-shared_2.13.14/4.9.8/semanticdb-shared_2.13.14-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/test-runner_3/0.5.4/test-runner_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_3/0.10.2/os-lib_3-0.10.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/pprint_3/0.9.0/pprint_3-0.9.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-nodejs_2.13/1.4.0/scalajs-env-nodejs_2.13-1.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-sbt-test-adapter_2.13/1.16.0/scalajs-sbt-test-adapter_2.13-1.16.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.12/file-tree-views-2.1.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/zip-input-stream/zip-input-stream/0.1.2/zip-input-stream-0.1.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/options_3/1.4.1/options_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/directives_3/1.4.1/directives_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala-cli-bsp/1.4.1/scala-cli-bsp-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/test-runner_3/1.4.1/test-runner_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/tasty-lib_3/1.4.1/tasty-lib_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-archiver/4.9.0/plexus-archiver-4.9.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/2.1.1/plexus-container-default-2.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/windows-ansi/windows-ansi/0.0.5/windows-ansi-0.0.5.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-util_2.13/2.1.10/coursier-util_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/concurrent-reference-hash-map/1.1.0/concurrent-reference-hash-map-1.1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/2.3.0/scala-xml_2.13-2.3.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.26.1/error_prone_annotations-2.26.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_3/0.12.0/metaconfig-pprint_3-0.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/paiges-core_3/0.4.3/paiges-core_3-0.4.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.14/scala-reflect-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-build-plan/0.4.0/jib-build-plan-0.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client/1.34.0/google-http-client-1.34.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-apache-v2/1.34.0/google-http-client-apache-v2-1.34.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-oauth2-http/0.18.0/google-auth-library-oauth2-http-0.18.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-compress/1.24.0/commons-compress-1.24.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.13.3/jackson-datatype-jsr310-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk18on/1.76/bcprov-jdk18on-1.76.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.3.1/scala3-compiler_3-3.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.9.8/scalameta_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.13/0.11.17/scalapb-runtime_2.13-0.11.17.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/tools_3/0.5.4/tools_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/sbt/junit-interface/0.13.3/junit-interface-0.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_3/1.1.0/geny_3-1.1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fansi_3/0.5.0/fansi_3-0.5.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_2.13/1.4.0/scalajs-js-envs_2.13-1.4.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.13/2.0.2/bloop-config_2.13-2.0.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/core_3/1.4.1/core_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/using_directives/1.1.1/using_directives-1.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-macros_3/1.4.1/build-macros_3-1.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bsp4j/2.1.1/bsp4j-2.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-io/3.4.1/plexus-io-3.4.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/tukaani/xz/1.9/xz-1.9.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.5-10/zstd-jni-1.5.5-10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.6.0/plexus-classworlds-2.6.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.18/jansi-1.18.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-api/0.24.0/opencensus-api-0.24.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-contrib-http-util/0.24.0/opencensus-contrib-http-util-0.24.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auto/value/auto-value-annotations/1.6.6/auto-value-annotations-1.6.6.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-credentials/0.18.0/google-auth-library-credentials-0.18.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-jackson2/1.32.1/google-http-client-jackson2-1.32.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.3.1/scala3-interfaces-3.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.3.1/tasty-core_3-3.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.5.0-scala-1/scala-asm-9.5.0-scala-1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.3.5/compiler-interface-1.3.5.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.9.8/parsers_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scalap/2.13.14/scalap-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.13/0.11.17/lenses_2.13-0.11.17.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.19.6/protobuf-java-3.19.6.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.12.0/scala-collection-compat_2.13-2.12.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/nir_3/0.5.4/nir_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/util_3/0.5.4/util_3-0.5.4.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-logging_2.13/1.1.1/scalajs-logging_2.13-1.1.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_2.13/0.1.12/unroll-annotation_2.13-0.1.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-rifle_2.13/1.5.17-sc-2/bloop-rifle_2.13-1.5.17-sc-2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-jvm_2.13/2.1.10/coursier-jvm_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/dependency_3/0.2.3/dependency_3-0.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/6.8.0.202311291450-r/org.eclipse.jgit-6.8.0.202311291450-r.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-jsdom-nodejs_2.13/1.1.0/scalajs-env-jsdom-nodejs_2.13-1.1.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.generator/0.20.1/org.eclipse.lsp4j.generator-0.20.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.jsonrpc/0.20.1/org.eclipse.lsp4j.jsonrpc-0.20.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/grpc/grpc-context/1.22.1/grpc-context-1.22.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.3.0/util-interface-1.3.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/trees_2.13/4.9.8/trees_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.14/scala-compiler-2.13.14.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.13/0.0.11/libdaemon_2.13-0.0.11.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/snailgun/snailgun-core_2.13/0.4.1-sc2/snailgun-core_2.13-0.4.1-sc2.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.3_2.13/1.3.1/argonaut-shapeless_6.3_2.13-1.3.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier_2.13/2.1.10/coursier_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-env_2.13/2.1.10/coursier-env_2.13-2.1.10.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.2.3/JavaEWAH-1.2.3.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.28.0/org.eclipse.xtend.lib-2.28.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/common_2.13/4.9.8/common_2.13-4.9.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.12/java-diff-utils-4.12.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/argonaut/argonaut_2.13/6.3.8/argonaut_2.13-6.3.8.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.9/shapeless_2.13-2.3.9.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/2.28.0/org.eclipse.xtext.xbase.lib-2.28.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib.macro/2.28.0/org.eclipse.xtend.lib.macro-2.28.0.jar:/Users/nishagi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.4.2/sourcecode_2.13-0.4.2.jar, scala.cli.ScalaCli, bsp, /Users/nishagi/myStuff/scalaPrac)
+2024.08.20 09:27:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nishagi/myStuff/scalaPrac/.metals/bsp.trace.json or /Users/nishagi/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.08.20 09:27:59 INFO  Connected to Scala CLI server v1.4.1
+2024.08.20 09:27:59 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:27:59 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:27:59 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:27:59 INFO  time: compiled scalaPrac_f4dd477a3a in 99ms
+2024.08.20 09:28:00 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.20 09:28:00 INFO  time: indexed workspace in 1.47s
+2024.08.20 09:28:43 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:28:43 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:28:43 INFO  Scala CLI started for /Users/nishagi/myStuff/scalaPrac
+2024.08.20 09:28:43 WARN  no build tool detected in workspace '/Users/nishagi/myStuff/scalaPrac'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.08.20 09:28:43 WARN  Build server is not auto-connectable.
+2024.08.20 09:28:43 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+2024.08.20 09:28:43 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:28:43 INFO  time: compiled scalaPrac_f4dd477a3a in 90ms
+2024.08.20 09:28:43 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+2024.08.20 09:28:44 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+2024.08.20 09:28:45 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+2024.08.20 09:28:46 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+2024.08.20 09:28:47 ERROR /Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:709)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:247)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.08.20 09:28:47 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:28:47 INFO  time: compiled scalaPrac_f4dd477a3a in 98ms
+2024.08.20 09:28:47 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+2024.08.20 09:28:52 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+2024.08.20 09:28:53 ERROR /Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:709)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:247)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.08.20 09:28:53 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:28:53 INFO  time: compiled scalaPrac_f4dd477a3a in 98ms
+2024.08.20 09:28:53 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code2.scala
+2024.08.20 09:28:59 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:28:59 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:29:02 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:29:02 INFO  time: compiled scalaPrac_f4dd477a3a in 0.16s
+2024.08.20 09:29:41 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:29:41 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:29:48 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:29:48 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:29:52 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:29:52 INFO  time: compiled scalaPrac_f4dd477a3a in 99ms
+2024.08.20 09:30:48 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:30:48 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:31:01 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:31:01 INFO  time: compiled scalaPrac_f4dd477a3a in 0.16s
+2024.08.20 09:31:02 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:31:02 INFO  time: compiled scalaPrac_f4dd477a3a in 96ms
+2024.08.20 09:31:04 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:31:04 INFO  time: compiled scalaPrac_f4dd477a3a in 98ms
+2024.08.20 09:31:05 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:31:05 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:31:12 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:31:12 INFO  time: compiled scalaPrac_f4dd477a3a in 0.19s
+2024.08.20 09:31:16 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:31:16 INFO  time: compiled scalaPrac_f4dd477a3a in 99ms
+2024.08.20 09:31:20 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:31:20 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:31:22 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:31:22 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:31:37 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:31:37 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:31:40 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:31:40 INFO  time: compiled scalaPrac_f4dd477a3a in 93ms
+2024.08.20 09:31:47 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:31:47 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+අගෝ 20, 2024 9:31:47 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 370
+2024.08.20 09:31:49 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:31:49 INFO  time: compiled scalaPrac_f4dd477a3a in 78ms
+2024.08.20 09:31:50 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:31:50 INFO  time: compiled scalaPrac_f4dd477a3a in 99ms
+2024.08.20 09:31:53 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:31:53 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+අගෝ 20, 2024 9:31:54 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 393
+2024.08.20 09:31:57 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:31:57 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:32:02 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:32:02 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:32:12 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:32:12 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:32:14 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:32:14 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:32:15 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:32:15 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:32:19 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:32:19 INFO  time: compiled scalaPrac_f4dd477a3a in 83ms
+2024.08.20 09:32:34 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:32:34 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:32:38 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:32:38 INFO  time: compiled scalaPrac_f4dd477a3a in 95ms
+2024.08.20 09:32:42 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:32:42 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:32:45 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:32:45 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:32:51 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:32:51 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:32:52 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:32:52 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:32:59 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:32:59 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:33:01 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:33:01 INFO  time: compiled scalaPrac_f4dd477a3a in 92ms
+2024.08.20 09:33:04 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:33:04 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:33:05 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:33:05 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:33:07 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:33:07 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:33:11 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:33:11 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:33:12 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:33:12 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:33:14 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:33:14 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+අගෝ 20, 2024 9:33:16 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 706
+2024.08.20 09:33:20 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:33:20 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:33:24 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:33:24 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:33:27 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:33:27 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:34:33 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:34:33 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:34:36 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:34:36 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:34:45 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:34:45 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:34:46 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:34:46 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:34:49 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:34:49 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:34:50 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:34:50 INFO  time: compiled scalaPrac_f4dd477a3a in 94ms
+2024.08.20 09:34:52 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:34:52 INFO  time: compiled scalaPrac_f4dd477a3a in 91ms
+2024.08.20 09:34:58 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:34:58 INFO  time: compiled scalaPrac_f4dd477a3a in 98ms
+2024.08.20 09:35:00 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:00 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:35:01 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:01 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:35:04 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:04 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+අගෝ 20, 2024 9:35:08 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 941
+2024.08.20 09:35:11 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:11 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:35:13 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:13 INFO  time: compiled scalaPrac_f4dd477a3a in 0.17s
+2024.08.20 09:35:15 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:15 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:35:21 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:21 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:35:23 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:23 INFO  time: compiled scalaPrac_f4dd477a3a in 89ms
+2024.08.20 09:35:25 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:25 INFO  time: compiled scalaPrac_f4dd477a3a in 97ms
+2024.08.20 09:35:26 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:26 INFO  time: compiled scalaPrac_f4dd477a3a in 85ms
+2024.08.20 09:35:28 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:28 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:35:31 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:31 INFO  time: compiled scalaPrac_f4dd477a3a in 96ms
+2024.08.20 09:35:34 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:34 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:35:36 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:36 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:35:38 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:38 INFO  time: compiled scalaPrac_f4dd477a3a in 96ms
+2024.08.20 09:35:42 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:42 INFO  time: compiled scalaPrac_f4dd477a3a in 92ms
+2024.08.20 09:35:43 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:43 INFO  time: compiled scalaPrac_f4dd477a3a in 95ms
+2024.08.20 09:35:46 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:46 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:35:48 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:48 INFO  time: compiled scalaPrac_f4dd477a3a in 97ms
+2024.08.20 09:35:49 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:49 INFO  time: compiled scalaPrac_f4dd477a3a in 95ms
+2024.08.20 09:35:50 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:35:50 INFO  time: compiled scalaPrac_f4dd477a3a in 99ms
+2024.08.20 09:36:04 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:36:04 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:36:06 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:36:06 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:36:07 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:36:07 INFO  time: compiled scalaPrac_f4dd477a3a in 83ms
+අගෝ 20, 2024 9:36:18 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1202
+2024.08.20 09:36:42 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:36:42 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:36:46 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:36:46 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:36:50 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:36:50 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:36:57 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:36:57 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:37:00 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:00 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:37:06 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:06 INFO  time: compiled scalaPrac_f4dd477a3a in 99ms
+2024.08.20 09:37:10 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:10 INFO  time: compiled scalaPrac_f4dd477a3a in 96ms
+2024.08.20 09:37:16 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:16 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:37:17 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:17 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:37:18 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:18 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:37:21 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:21 INFO  time: compiled scalaPrac_f4dd477a3a in 87ms
+අගෝ 20, 2024 9:37:22 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1372
+2024.08.20 09:37:26 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:26 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:37:31 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:31 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:37:33 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:33 INFO  time: compiled scalaPrac_f4dd477a3a in 89ms
+2024.08.20 09:37:35 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:35 INFO  time: compiled scalaPrac_f4dd477a3a in 93ms
+2024.08.20 09:37:38 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:38 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:37:44 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:44 INFO  time: compiled scalaPrac_f4dd477a3a in 96ms
+අගෝ 20, 2024 9:37:46 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1465
+2024.08.20 09:37:49 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:49 INFO  time: compiled scalaPrac_f4dd477a3a in 99ms
+2024.08.20 09:37:52 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:52 INFO  time: compiled scalaPrac_f4dd477a3a in 0.18s
+2024.08.20 09:37:55 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:55 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:37:58 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:37:58 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:38:01 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:01 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:38:05 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:05 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:38:07 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:07 INFO  time: compiled scalaPrac_f4dd477a3a in 94ms
+2024.08.20 09:38:12 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:12 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:38:13 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:13 INFO  time: compiled scalaPrac_f4dd477a3a in 90ms
+2024.08.20 09:38:18 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:18 INFO  time: compiled scalaPrac_f4dd477a3a in 99ms
+2024.08.20 09:38:21 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:21 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:38:23 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:23 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:38:28 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:28 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:38:33 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:33 INFO  time: compiled scalaPrac_f4dd477a3a in 97ms
+2024.08.20 09:38:38 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:38 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:38:43 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:43 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:38:45 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:45 INFO  time: compiled scalaPrac_f4dd477a3a in 99ms
+2024.08.20 09:38:46 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:46 INFO  time: compiled scalaPrac_f4dd477a3a in 99ms
+2024.08.20 09:38:49 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:49 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:38:50 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:38:50 INFO  time: compiled scalaPrac_f4dd477a3a in 96ms
+2024.08.20 09:39:01 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:39:01 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:39:03 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:39:03 INFO  time: compiled scalaPrac_f4dd477a3a in 98ms
+2024.08.20 09:43:15 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:43:15 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:43:18 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:43:18 INFO  time: compiled scalaPrac_f4dd477a3a in 97ms
+2024.08.20 09:43:22 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:43:22 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:43:23 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:43:23 INFO  time: compiled scalaPrac_f4dd477a3a in 99ms
+2024.08.20 09:43:25 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:43:25 INFO  time: compiled scalaPrac_f4dd477a3a in 85ms
+2024.08.20 09:45:01 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:45:01 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+අගෝ 20, 2024 9:45:04 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1976
+2024.08.20 09:45:06 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:45:06 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:45:28 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:45:28 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:45:55 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:45:55 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:45:59 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:45:59 INFO  time: compiled scalaPrac_f4dd477a3a in 77ms
+2024.08.20 09:46:01 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:01 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+අගෝ 20, 2024 9:46:03 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2082
+2024.08.20 09:46:04 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:04 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:46:07 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:07 INFO  time: compiled scalaPrac_f4dd477a3a in 0.2s
+2024.08.20 09:46:10 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:10 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:46:11 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:11 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:46:14 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:14 INFO  time: compiled scalaPrac_f4dd477a3a in 0.16s
+2024.08.20 09:46:17 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:17 INFO  time: compiled scalaPrac_f4dd477a3a in 0.17s
+2024.08.20 09:46:19 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:19 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:46:24 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:24 INFO  time: compiled scalaPrac_f4dd477a3a in 0.16s
+2024.08.20 09:46:26 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:26 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:46:29 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:29 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:46:32 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:32 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:46:35 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:35 INFO  time: compiled scalaPrac_f4dd477a3a in 0.17s
+2024.08.20 09:46:37 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:37 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:46:43 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:43 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:46:45 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:45 INFO  time: compiled scalaPrac_f4dd477a3a in 0.16s
+2024.08.20 09:46:47 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:46:47 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:47:04 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:47:04 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:47:15 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:47:15 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:47:34 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:47:34 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:47:39 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:47:39 INFO  time: compiled scalaPrac_f4dd477a3a in 97ms
+2024.08.20 09:47:41 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:47:41 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:48:08 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:48:08 INFO  time: compiled scalaPrac_f4dd477a3a in 0.18s
+2024.08.20 09:48:13 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:48:13 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:48:31 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:48:31 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:48:34 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:48:34 INFO  time: compiled scalaPrac_f4dd477a3a in 92ms
+2024.08.20 09:48:40 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:48:40 INFO  time: compiled scalaPrac_f4dd477a3a in 99ms
+2024.08.20 09:48:43 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:48:43 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:48:46 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:48:46 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:49:09 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:49:09 INFO  time: compiled scalaPrac_f4dd477a3a in 92ms
+2024.08.20 09:49:14 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:49:14 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:49:18 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:49:18 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:49:21 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:49:21 INFO  time: compiled scalaPrac_f4dd477a3a in 85ms
+2024.08.20 09:49:22 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:49:22 INFO  time: compiled scalaPrac_f4dd477a3a in 89ms
+2024.08.20 09:49:41 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:49:41 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:49:45 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:49:45 INFO  time: compiled scalaPrac_f4dd477a3a in 97ms
+2024.08.20 09:49:48 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:49:48 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+අගෝ 20, 2024 9:49:50 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2601
+2024.08.20 09:49:53 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:49:53 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:49:56 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:49:56 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:49:59 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:49:59 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:50:01 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:50:01 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+අගෝ 20, 2024 9:50:03 පෙ.ව. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2655
+2024.08.20 09:50:07 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:50:07 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:50:17 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:50:17 INFO  time: compiled scalaPrac_f4dd477a3a in 0.15s
+2024.08.20 09:50:19 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:50:19 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:50:29 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:50:29 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:50:31 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:50:31 INFO  time: compiled scalaPrac_f4dd477a3a in 0.14s
+2024.08.20 09:50:32 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:50:32 INFO  time: compiled scalaPrac_f4dd477a3a in 0.11s
+2024.08.20 09:50:37 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:50:37 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:50:43 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:50:43 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:50:46 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:50:46 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:50:47 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:50:47 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:51:41 WARN  Could not find semantic tokens for: file:///Users/nishagi/myStuff/scalaPrac/practicle9/code3.scala
+2024.08.20 09:56:00 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:56:00 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:56:16 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:56:16 INFO  time: compiled scalaPrac_f4dd477a3a in 0.13s
+2024.08.20 09:56:24 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:56:24 INFO  time: compiled scalaPrac_f4dd477a3a in 94ms
+2024.08.20 09:56:53 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:56:53 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:56:56 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:56:56 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:57:02 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:57:02 INFO  time: compiled scalaPrac_f4dd477a3a in 0.1s
+2024.08.20 09:57:06 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:57:06 INFO  time: compiled scalaPrac_f4dd477a3a in 85ms
+2024.08.20 09:57:23 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:57:23 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+2024.08.20 09:57:26 INFO  compiling scalaprac_f4dd477a3a (27 scala sources)
+2024.08.20 09:57:26 INFO  time: compiled scalaPrac_f4dd477a3a in 0.12s
+අගෝ 20, 2024 9:57:35 පෙ.ව. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
